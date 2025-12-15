@@ -1,0 +1,45 @@
+{
+  "crawlDate": "2025-12-15T20:47:05.748Z",
+  "listName": "View Rankings",
+  "url": "https://www.enr.com/toplists/2025-Top-100-Design-Build-Firms-preview",
+  "totalRows": 5,
+  "paginatedPages": 1,
+  "headers": [
+    "RANK 2025",
+    "RANK 2024",
+    "Company Name",
+    "Location"
+  ],
+  "data": [
+    {
+      "Company Name": "Bechtel",
+      "Location": "Reston, Va.",
+      "RANK 2025": "1",
+      "RANK 2024": "1"
+    },
+    {
+      "Company Name": "McDermott International",
+      "Location": "Houston, Texas",
+      "RANK 2025": "2",
+      "RANK 2024": "2"
+    },
+    {
+      "Company Name": "Kiewit Corp.",
+      "Location": "Omaha, Neb.",
+      "RANK 2025": "3",
+      "RANK 2024": "3"
+    },
+    {
+      "Company Name": "Clayco",
+      "Location": "Chicago, Ill.",
+      "RANK 2025": "4",
+      "RANK 2024": "5"
+    },
+    {
+      "Company Name": "Fluor",
+      "Location": "Irving, Texas",
+      "RANK 2025": "5",
+      "RANK 2024": "6"
+    }
+  ]
+}

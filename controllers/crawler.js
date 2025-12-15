@@ -1,7 +1,6 @@
 const puppeteer = require('puppeteer-core');
 const fs = require('fs');
 
-
 // Detects if Cloudflare security challenge is present on the page
 // Waits up to 2 minutes for user to manually complete the challenge before continuing
 async function waitForCloudflareChallenge(page) {
@@ -72,10 +71,8 @@ async function waitForCloudflareChallenge(page) {
   }
 }
 
-
 // Searches for pagination table on the page and extracts all pagination links
 // Returns array of links to additional pages (e.g., 101-200, 201-300, etc.)
-
 async function getPaginationLinks(page) {
   console.log('  🔍 Checking for pagination...');
   
@@ -110,10 +107,8 @@ async function getPaginationLinks(page) {
   return paginationLinks;
 }
 
-
 // Extracts ranking data from all tables on the page, parsing company names and locations from FIRM column
-// Returns structured data with only RANK 2025, RANK 2024, Company Name, and Location fields as expected in assignment
-
+// Returns structured data with only RANK 2025, RANK 2024, Company Name, and Location fields
 async function extractTableData(page, url) {
   console.log(`    📊 Extracting table data...`);
   
@@ -137,10 +132,18 @@ async function extractTableData(page, url) {
         const rows = [];
         const headers = [];
         
-        // Get headers
+        // Get headers with better extraction
         const headerCells = table.querySelectorAll('thead th');
         headerCells.forEach(th => {
-          headers.push(th.textContent.trim());
+          let headerText = th.textContent.trim();
+          
+          // Try to get from data-label attribute if text is malformed
+          const dataLabel = th.getAttribute('data-label');
+          if (dataLabel && dataLabel.trim()) {
+            headerText = dataLabel.trim();
+          }
+          
+          headers.push(headerText);
         });
         
         // Skip if no headers found
@@ -148,10 +151,33 @@ async function extractTableData(page, url) {
           return;
         }
         
-        // Find the indices of the columns we need
-        const rank2025Index = headers.findIndex(h => h.includes('RANK 2025'));
-        const rank2024Index = headers.findIndex(h => h.includes('RANK 2024'));
-        const firmIndex = headers.findIndex(h => h.includes('FIRM'));
+        // Find the indices of the columns we need with very flexible matching
+        let rank2025Index = -1;
+        let rank2024Index = -1;
+        let firmIndex = -1;
+        
+        headers.forEach((h, idx) => {
+          const normalized = h.toUpperCase().replace(/\s+/g, '');
+          
+          // Match any variation of RANK 2025
+          // Handles: "RANK 2025", "Rank 2025", "RANK RANK 2025", "RANK2025"
+          if (normalized.includes('2025') && normalized.includes('RANK')) {
+            rank2025Index = idx;
+          }
+          // Match any variation of RANK 2024/2023
+          // Handles: "RANK 2024", "Rank 2024", "RANK RANK 2024", "RANK2024", "RANK 2023"
+          else if ((normalized.includes('2024') || normalized.includes('2023')) && 
+                   normalized.includes('RANK')) {
+            if (rank2024Index === -1) { // Take first match only
+              rank2024Index = idx;
+            }
+          }
+          // Match any variation of FIRM
+          // Handles: "FIRM", "Firm", "FIRMS", "Firms"
+           if (normalized === 'FIRM' || normalized === 'FIRMS') {
+            firmIndex = idx;
+          }
+        });
         
         // Skip table if it doesn't have the required columns
         if (firmIndex === -1) {
@@ -252,7 +278,6 @@ async function extractTableData(page, url) {
     return null;
   }
 }
-
 
 // Visits a toplist page, detects pagination, and crawls all paginated pages to collect complete dataset
 // Returns combined data from main page and all pagination pages with metadata (list name, URL, row count)
@@ -498,16 +523,68 @@ async function crawlENRToplists() {
     console.log('💾 SAVING RESULTS...');
     console.log('='.repeat(70));
     
-    // Save as JSON
-    const jsonOutput = {
+    // Create output directory if it doesn't exist
+    const outputDir = './enr-data';
+    if (!fs.existsSync(outputDir)) {
+      fs.mkdirSync(outputDir);
+      console.log(`📁 Created directory: ${outputDir}`);
+    }
+    
+    // Save each toplist as a separate JSON file
+    allResults.forEach((result, index) => {
+      // Extract filename from URL or use listName
+      let filename = '';
+      
+      // Try to get filename from URL (e.g., "2025-Top-500-Design-Firms")
+      const urlParts = result.url.split('/');
+      const lastPart = urlParts[urlParts.length - 1];
+      
+      if (lastPart && lastPart !== 'toplists') {
+        filename = lastPart;
+      } else {
+        // Fallback: use listName and sanitize it
+        filename = result.listName
+          .replace(/[^a-z0-9]/gi, '-')
+          .replace(/-+/g, '-')
+          .replace(/^-|-$/g, '');
+      }
+      
+      // Create individual file data
+      const fileData = {
+        crawlDate: new Date().toISOString(),
+        listName: result.listName,
+        url: result.url,
+        totalRows: result.rowCount,
+        paginatedPages: result.paginatedPages,
+        headers: result.headers,
+        data: result.data
+      };
+      
+      const filepath = `${outputDir}/${filename}.json`;
+      fs.writeFileSync(filepath, JSON.stringify(fileData, null, 2));
+      console.log(`✅ Saved: ${filepath} (${result.rowCount} rows)`);
+    });
+    
+    // Also save a summary file
+    const summaryData = {
       crawlDate: new Date().toISOString(),
       totalLists: allResults.length,
       totalRows: allResults.reduce((sum, r) => sum + r.rowCount, 0),
-      lists: allResults
+      files: allResults.map(r => {
+        const urlParts = r.url.split('/');
+        const filename = urlParts[urlParts.length - 1] || r.listName.replace(/[^a-z0-9]/gi, '-');
+        return {
+          filename: `${filename}.json`,
+          listName: r.listName,
+          url: r.url,
+          rowCount: r.rowCount,
+          paginatedPages: r.paginatedPages
+        };
+      })
     };
     
-    fs.writeFileSync('enr-toplists-data.json', JSON.stringify(jsonOutput, null, 2));
-    console.log('✅ Saved: enr-toplists-data.json');
+    fs.writeFileSync(`${outputDir}/summary.json`, JSON.stringify(summaryData, null, 2));
+    console.log(`✅ Saved: ${outputDir}/summary.json (index file)`);
     
     // Save cookies
     const cookies = await page.cookies();
@@ -543,6 +620,5 @@ async function crawlENRToplists() {
     throw error;
   }
 }
-
 
 module.exports = { crawlENRToplists };

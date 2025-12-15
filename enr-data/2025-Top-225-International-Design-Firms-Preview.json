@@ -1,0 +1,1395 @@
+{
+  "crawlDate": "2025-12-15T20:47:05.746Z",
+  "listName": "View Rankings",
+  "url": "https://www.enr.com/toplists/2025-Top-225-International-Design-Firms-Preview",
+  "totalRows": 230,
+  "paginatedPages": 4,
+  "headers": [
+    "RANK 2025",
+    "RANK 2024",
+    "Company Name",
+    "Location"
+  ],
+  "data": [
+    {
+      "Company Name": "WSP Global Inc.",
+      "Location": "Montreal, Quebec, Canada†",
+      "RANK 2025": "1",
+      "RANK 2024": "1"
+    },
+    {
+      "Company Name": "Worley Ltd.",
+      "Location": "Sydney, Australia",
+      "RANK 2025": "2",
+      "RANK 2024": "2"
+    },
+    {
+      "Company Name": "Arcadis NV",
+      "Location": "Amsterdam, Netherlands†",
+      "RANK 2025": "3",
+      "RANK 2024": "3"
+    },
+    {
+      "Company Name": "AtkinsRéalis",
+      "Location": "Montreal, Quebec, Canada†",
+      "RANK 2025": "4",
+      "RANK 2024": "5"
+    },
+    {
+      "Company Name": "AECOM",
+      "Location": "Dallas, Texas, U.S.A.",
+      "RANK 2025": "5",
+      "RANK 2024": "4"
+    },
+    {
+      "Company Name": "WSP Global Inc.",
+      "Location": "Montreal, Quebec, Canada†",
+      "RANK 2025": "1",
+      "RANK 2024": "1"
+    },
+    {
+      "Company Name": "Worley Ltd.",
+      "Location": "Sydney, Australia",
+      "RANK 2025": "2",
+      "RANK 2024": "2"
+    },
+    {
+      "Company Name": "Arcadis NV",
+      "Location": "Amsterdam, Netherlands†",
+      "RANK 2025": "3",
+      "RANK 2024": "3"
+    },
+    {
+      "Company Name": "AtkinsRéalis",
+      "Location": "Montreal, Quebec, Canada†",
+      "RANK 2025": "4",
+      "RANK 2024": "5"
+    },
+    {
+      "Company Name": "AECOM",
+      "Location": "Dallas, Texas, U.S.A.",
+      "RANK 2025": "5",
+      "RANK 2024": "4"
+    },
+    {
+      "Company Name": "Stantec Inc.",
+      "Location": "Edmonton, Alberta, Canada†",
+      "RANK 2025": "6",
+      "RANK 2024": "7"
+    },
+    {
+      "Company Name": "Jacobs Solutions Inc.",
+      "Location": "Dallas, Texas, U.S.A.",
+      "RANK 2025": "7",
+      "RANK 2024": "6"
+    },
+    {
+      "Company Name": "Fluor",
+      "Location": "Irving, Texas, U.S.A.†",
+      "RANK 2025": "8",
+      "RANK 2024": "8"
+    },
+    {
+      "Company Name": "SIDARA",
+      "Location": "Dubai, U.A.E.†",
+      "RANK 2025": "9",
+      "RANK 2024": "9"
+    },
+    {
+      "Company Name": "Technip Energies",
+      "Location": "Nanterre, France†",
+      "RANK 2025": "10",
+      "RANK 2024": "11"
+    },
+    {
+      "Company Name": "Tetra Tech",
+      "Location": "Pasadena, Calif., U.S.A.",
+      "RANK 2025": "11",
+      "RANK 2024": "14"
+    },
+    {
+      "Company Name": "Ramboll Group",
+      "Location": "Copenhagen, Denmark†",
+      "RANK 2025": "12",
+      "RANK 2024": "12"
+    },
+    {
+      "Company Name": "Sweco AB",
+      "Location": "Stockholm, Sweden",
+      "RANK 2025": "13",
+      "RANK 2024": "13"
+    },
+    {
+      "Company Name": "China Energy Engineering Corp. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2025": "14",
+      "RANK 2024": "18"
+    },
+    {
+      "Company Name": "Power Construction Corp. of China",
+      "Location": "Beijing, China†",
+      "RANK 2025": "15",
+      "RANK 2024": "15"
+    },
+    {
+      "Company Name": "Arup",
+      "Location": "London, U.K.",
+      "RANK 2025": "16",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Egis Group",
+      "Location": "Guyancourt, France†",
+      "RANK 2025": "17",
+      "RANK 2024": "17"
+    },
+    {
+      "Company Name": "Mott MacDonald",
+      "Location": "London, Surrey, U.K.†",
+      "RANK 2025": "18",
+      "RANK 2024": "16"
+    },
+    {
+      "Company Name": "AFRY",
+      "Location": "Stockholm, Sweden",
+      "RANK 2025": "19",
+      "RANK 2024": "20"
+    },
+    {
+      "Company Name": "Hatch Ltd.",
+      "Location": "Mississauga, Ontario, Canada†",
+      "RANK 2025": "20",
+      "RANK 2024": "19"
+    },
+    {
+      "Company Name": "SYSTRA",
+      "Location": "Paris, France†",
+      "RANK 2025": "21",
+      "RANK 2024": "22"
+    },
+    {
+      "Company Name": "GHD",
+      "Location": "Sydney, Australia†",
+      "RANK 2025": "22",
+      "RANK 2024": "21"
+    },
+    {
+      "Company Name": "Larsen & Toubro Ltd.",
+      "Location": "Mumbai, India†",
+      "RANK 2025": "23",
+      "RANK 2024": "24"
+    },
+    {
+      "Company Name": "Surbana Jurong Private Ltd.",
+      "Location": "Singapore†",
+      "RANK 2025": "24",
+      "RANK 2024": "23"
+    },
+    {
+      "Company Name": "Maire SpA",
+      "Location": "Milan, Italy†",
+      "RANK 2025": "25",
+      "RANK 2024": "25"
+    },
+    {
+      "Company Name": "COWI",
+      "Location": "Kongens Lyngby, Denmark†",
+      "RANK 2025": "26",
+      "RANK 2024": "26"
+    },
+    {
+      "Company Name": "Artelia",
+      "Location": "Saint Ouen, France†",
+      "RANK 2025": "27",
+      "RANK 2024": "29"
+    },
+    {
+      "Company Name": "China National Chemical Eng’g Group Corp. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2025": "28",
+      "RANK 2024": "30"
+    },
+    {
+      "Company Name": "Bechtel",
+      "Location": "Reston, Va., U.S.A.†",
+      "RANK 2025": "29",
+      "RANK 2024": "32"
+    },
+    {
+      "Company Name": "EXP",
+      "Location": "Chicago, Ill., U.S.A.",
+      "RANK 2025": "30",
+      "RANK 2024": "28"
+    },
+    {
+      "Company Name": "Tractebel Engineering",
+      "Location": "Brussels, Belgium†",
+      "RANK 2025": "31",
+      "RANK 2024": "27"
+    },
+    {
+      "Company Name": "Dorsch Global GmbH",
+      "Location": "Frankfurt am Main, Germany†",
+      "RANK 2025": "32",
+      "RANK 2024": "40"
+    },
+    {
+      "Company Name": "Parsons Corp.",
+      "Location": "Chantilly, Va., U.S.A.",
+      "RANK 2025": "33",
+      "RANK 2024": "39"
+    },
+    {
+      "Company Name": "Intertek-PSI",
+      "Location": "Arlington Heights, Ill., U.S.A.†",
+      "RANK 2025": "34",
+      "RANK 2024": "33"
+    },
+    {
+      "Company Name": "EHAF Consulting Engineers",
+      "Location": "Giza, Egypt",
+      "RANK 2025": "35",
+      "RANK 2024": "60"
+    },
+    {
+      "Company Name": "Khatib & Alami",
+      "Location": "Beirut, Lebanon†",
+      "RANK 2025": "36",
+      "RANK 2024": "31"
+    },
+    {
+      "Company Name": "Meinhardt Group International",
+      "Location": "Melbourne, Australia†",
+      "RANK 2025": "37",
+      "RANK 2024": "41"
+    },
+    {
+      "Company Name": "Sener Grupo de IngenierÌa SA",
+      "Location": "Getxo, Spain†",
+      "RANK 2025": "38",
+      "RANK 2024": "49"
+    },
+    {
+      "Company Name": "ID&E Holdings",
+      "Location": "Tokyo, Japan†",
+      "RANK 2025": "39",
+      "RANK 2024": "36"
+    },
+    {
+      "Company Name": "ILF Consulting Engineers",
+      "Location": "Rum, Austria†",
+      "RANK 2025": "40",
+      "RANK 2024": "43"
+    },
+    {
+      "Company Name": "Haskoning",
+      "Location": "Amersfoort, Netherlands†",
+      "RANK 2025": "41",
+      "RANK 2024": "37"
+    },
+    {
+      "Company Name": "IDOM",
+      "Location": "Bilbao, Spain†",
+      "RANK 2025": "42",
+      "RANK 2024": "42"
+    },
+    {
+      "Company Name": "AYESA",
+      "Location": "Seville, Spain†",
+      "RANK 2025": "43",
+      "RANK 2024": "45"
+    },
+    {
+      "Company Name": "Tecnica y Proyectos SA (TYPSA)",
+      "Location": "San Sebastian de los Reyes, Spain†",
+      "RANK 2025": "44",
+      "RANK 2024": "44"
+    },
+    {
+      "Company Name": "Gensler",
+      "Location": "Los Angeles, Calif., U.S.A.",
+      "RANK 2025": "45",
+      "RANK 2024": "46"
+    },
+    {
+      "Company Name": "China Communications Construction Group Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2025": "46",
+      "RANK 2024": "35"
+    },
+    {
+      "Company Name": "HDR",
+      "Location": "Omaha, Neb., U.S.A.†",
+      "RANK 2025": "47",
+      "RANK 2024": "34"
+    },
+    {
+      "Company Name": "Samsung E&A Co. Ltd.",
+      "Location": "Seoul, South Korea†",
+      "RANK 2025": "48",
+      "RANK 2024": "38"
+    },
+    {
+      "Company Name": "TPF SA",
+      "Location": "Brussels, Belgium†",
+      "RANK 2025": "49",
+      "RANK 2024": "48"
+    },
+    {
+      "Company Name": "Bilfinger Engineering",
+      "Location": "Schiedam, Netherlands†",
+      "RANK 2025": "50",
+      "RANK 2024": "61"
+    },
+    {
+      "Company Name": "Black & Veatch",
+      "Location": "Overland Park, Kan., U.S.A.†",
+      "RANK 2025": "51",
+      "RANK 2024": "50"
+    },
+    {
+      "Company Name": "Populous",
+      "Location": "Kansas City, Mo., U.S.A.",
+      "RANK 2025": "52",
+      "RANK 2024": "56"
+    },
+    {
+      "Company Name": "China Petroleum Engineering Co. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2025": "53",
+      "RANK 2024": "53"
+    },
+    {
+      "Company Name": "Assystem",
+      "Location": "Courbevoie, France†",
+      "RANK 2025": "54",
+      "RANK 2024": "52"
+    },
+    {
+      "Company Name": "Aurecon",
+      "Location": "Melbourne, Australia",
+      "RANK 2025": "55",
+      "RANK 2024": "54"
+    },
+    {
+      "Company Name": "Oriental Consultants Global (OCHD)",
+      "Location": "Shibuyaku, Japan†",
+      "RANK 2025": "56",
+      "RANK 2024": "55"
+    },
+    {
+      "Company Name": "RINA Consulting SpA",
+      "Location": "Genoa, Italy†",
+      "RANK 2025": "57",
+      "RANK 2024": "63"
+    },
+    {
+      "Company Name": "Colliers Engineering & Design",
+      "Location": "Holmdel, N.J., U.S.A.†",
+      "RANK 2025": "58",
+      "RANK 2024": "134"
+    },
+    {
+      "Company Name": "NIRAS",
+      "Location": "Allerød, Denmark",
+      "RANK 2025": "59",
+      "RANK 2024": "92"
+    },
+    {
+      "Company Name": "CDM Smith",
+      "Location": "Boston, Mass., U.S.A.†",
+      "RANK 2025": "60",
+      "RANK 2024": "58"
+    },
+    {
+      "Company Name": "Fichtner Group",
+      "Location": "Stuttgart, Germany†",
+      "RANK 2025": "61",
+      "RANK 2024": "59"
+    },
+    {
+      "Company Name": "CTI Engineering Group",
+      "Location": "Tokyo, Japan†",
+      "RANK 2025": "62",
+      "RANK 2024": "57"
+    },
+    {
+      "Company Name": "SETEC",
+      "Location": "Paris, France†",
+      "RANK 2025": "63",
+      "RANK 2024": "65"
+    },
+    {
+      "Company Name": "Eng’g for the Petroleum & Process Industries (Enppi)",
+      "Location": "Cairo, Egypt†",
+      "RANK 2025": "64",
+      "RANK 2024": "73"
+    },
+    {
+      "Company Name": "China Railway Construction Corp. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2025": "65",
+      "RANK 2024": "66"
+    },
+    {
+      "Company Name": "Jensen Hughes",
+      "Location": "Columbia, Md., U.S.A.",
+      "RANK 2025": "66",
+      "RANK 2024": "83"
+    },
+    {
+      "Company Name": "Beca Group Ltd.",
+      "Location": "Auckland, New Zealand†",
+      "RANK 2025": "67",
+      "RANK 2024": "62"
+    },
+    {
+      "Company Name": "Drees & Sommer",
+      "Location": "Stuttgart, Germany†",
+      "RANK 2025": "68",
+      "RANK 2024": "68"
+    },
+    {
+      "Company Name": "Burns & McDonnell",
+      "Location": "Kansas City, Mo., U.S.A.†",
+      "RANK 2025": "69",
+      "RANK 2024": "72"
+    },
+    {
+      "Company Name": "PM Group",
+      "Location": "Dublin, Ireland†",
+      "RANK 2025": "70",
+      "RANK 2024": "64"
+    },
+    {
+      "Company Name": "INGEROP",
+      "Location": "Rueil-Malmaison, France†",
+      "RANK 2025": "71",
+      "RANK 2024": "70"
+    },
+    {
+      "Company Name": "Skidmore Owings & Merrill",
+      "Location": "New York, N.Y., U.S.A.†",
+      "RANK 2025": "72",
+      "RANK 2024": "76"
+    },
+    {
+      "Company Name": "Sargent & Lundy",
+      "Location": "Chicago, Ill., U.S.A.†",
+      "RANK 2025": "73",
+      "RANK 2024": "75"
+    },
+    {
+      "Company Name": "Associated Consulting Engineers",
+      "Location": "Athens, Greece†",
+      "RANK 2025": "74",
+      "RANK 2024": "84"
+    },
+    {
+      "Company Name": "China National Machinery Industry Corp.",
+      "Location": "Beijing, China†",
+      "RANK 2025": "75",
+      "RANK 2024": "67"
+    },
+    {
+      "Company Name": "Italconsult SpA",
+      "Location": "Rome, Italy†",
+      "RANK 2025": "76",
+      "RANK 2024": "71"
+    },
+    {
+      "Company Name": "Kohn Pedersen Fox (KPF)",
+      "Location": "New York, N.Y., U.S.A.",
+      "RANK 2025": "77",
+      "RANK 2024": "74"
+    },
+    {
+      "Company Name": "Versar Global Solutions",
+      "Location": "Washington, D.C., U.S.A.†",
+      "RANK 2025": "78",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "ARX Group (formerly Pini Group)",
+      "Location": "Grono, Switzerland†",
+      "RANK 2025": "79",
+      "RANK 2024": "111"
+    },
+    {
+      "Company Name": "Geosyntec Consultants",
+      "Location": "Boca Raton, Fla., U.S.A.†",
+      "RANK 2025": "80",
+      "RANK 2024": "94"
+    },
+    {
+      "Company Name": "Metallurgical Corp. of China Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2025": "81",
+      "RANK 2024": "101"
+    },
+    {
+      "Company Name": "NORR",
+      "Location": "Chicago, Ill., U.S.A.†",
+      "RANK 2025": "82",
+      "RANK 2024": "77"
+    },
+    {
+      "Company Name": "Woolpert",
+      "Location": "Dayton, Ohio, U.S.A.†",
+      "RANK 2025": "83",
+      "RANK 2024": "118"
+    },
+    {
+      "Company Name": "China Aluminum International Eng’g Corp. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2025": "84",
+      "RANK 2024": "98"
+    },
+    {
+      "Company Name": "Kiewit Corp.",
+      "Location": "Omaha, Neb., U.S.A.†",
+      "RANK 2025": "85",
+      "RANK 2024": "80"
+    },
+    {
+      "Company Name": "AJi Group",
+      "Location": "Amman, Jordan†",
+      "RANK 2025": "86",
+      "RANK 2024": "107"
+    },
+    {
+      "Company Name": "IPS-Integrated Project Services LLC",
+      "Location": "Blue Bell, Pa., U.S.A.†",
+      "RANK 2025": "87",
+      "RANK 2024": "78"
+    },
+    {
+      "Company Name": "PROGER SpA",
+      "Location": "Rome, Italy†",
+      "RANK 2025": "88",
+      "RANK 2024": "102"
+    },
+    {
+      "Company Name": "HOK",
+      "Location": "New York, N.Y., U.S.A.",
+      "RANK 2025": "89",
+      "RANK 2024": "89"
+    },
+    {
+      "Company Name": "JSTI Group",
+      "Location": "Nanjing, China†",
+      "RANK 2025": "90",
+      "RANK 2024": "85"
+    },
+    {
+      "Company Name": "NV5 Global Inc.",
+      "Location": "Hollywood, Fla., U.S.A.†",
+      "RANK 2025": "91",
+      "RANK 2024": "113"
+    },
+    {
+      "Company Name": "Dewan Architects + Engineers",
+      "Location": "Dubai, U.A.E.†",
+      "RANK 2025": "92",
+      "RANK 2024": "93"
+    },
+    {
+      "Company Name": "KEO International Consultants",
+      "Location": "Kuwait City, Kuwait",
+      "RANK 2025": "93",
+      "RANK 2024": "97"
+    },
+    {
+      "Company Name": "TATA Consulting Engineers Ltd.",
+      "Location": "Mumbai, India†",
+      "RANK 2025": "94",
+      "RANK 2024": "108"
+    },
+    {
+      "Company Name": "CTCI Corp.",
+      "Location": "Taipei, Taiwan†",
+      "RANK 2025": "95",
+      "RANK 2024": "79"
+    },
+    {
+      "Company Name": "Lombardi Group",
+      "Location": "Giubiasco-Bellinzona, Switzerland†",
+      "RANK 2025": "96",
+      "RANK 2024": "100"
+    },
+    {
+      "Company Name": "SLR",
+      "Location": "London, England, U.K.",
+      "RANK 2025": "97",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Empresarios Agrupados Internacional SA",
+      "Location": "Madrid, Spain",
+      "RANK 2025": "98",
+      "RANK 2024": "90"
+    },
+    {
+      "Company Name": "Zutari (Pty) Ltd.",
+      "Location": "Pretoria, Gauteng, South Africa†",
+      "RANK 2025": "99",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Thornton Tomasetti",
+      "Location": "New York, N.Y., U.S.A.",
+      "RANK 2025": "100",
+      "RANK 2024": "109"
+    },
+    {
+      "Company Name": "SSH",
+      "Location": "Manama, Bahrain†",
+      "RANK 2025": "101",
+      "RANK 2024": "95"
+    },
+    {
+      "Company Name": "Architecture & Planning Group",
+      "Location": "Abu Dhabi, U.A.E.",
+      "RANK 2025": "102",
+      "RANK 2024": "121"
+    },
+    {
+      "Company Name": "HKS",
+      "Location": "Dallas, Texas, U.S.A.",
+      "RANK 2025": "103",
+      "RANK 2024": "105"
+    },
+    {
+      "Company Name": "China Triumph International Engineering Co. Ltd.",
+      "Location": "Shanghai, China†",
+      "RANK 2025": "104",
+      "RANK 2024": "86"
+    },
+    {
+      "Company Name": "Dohwa Engineering Co. Ltd.",
+      "Location": "Seoul, South Korea†",
+      "RANK 2025": "105",
+      "RANK 2024": "91"
+    },
+    {
+      "Company Name": "WATG",
+      "Location": "Tustin, Calif., U.S.A.",
+      "RANK 2025": "106",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Salas O’Brien",
+      "Location": "Irvine, Calif., U.S.A.",
+      "RANK 2025": "107",
+      "RANK 2024": "119"
+    },
+    {
+      "Company Name": "Samoo Architects & Engineers",
+      "Location": "Seoul, South Korea",
+      "RANK 2025": "108",
+      "RANK 2024": "99"
+    },
+    {
+      "Company Name": "Atlas Group",
+      "Location": "Richmond, Texas, U.S.A.",
+      "RANK 2025": "109",
+      "RANK 2024": "88"
+    },
+    {
+      "Company Name": "Gannett Fleming TranSystems (GFT)",
+      "Location": "Mechanicsburg, Pa., U.S.A.",
+      "RANK 2025": "110",
+      "RANK 2024": "110"
+    },
+    {
+      "Company Name": "JGC Holdings Corp.",
+      "Location": "Yokohama, Japan†",
+      "RANK 2025": "111",
+      "RANK 2024": "112"
+    },
+    {
+      "Company Name": "NKY Architects and Engineers",
+      "Location": "Ankara, Turkey",
+      "RANK 2025": "112",
+      "RANK 2024": "106"
+    },
+    {
+      "Company Name": "Kunhwa Engineering & Consulting Co. Ltd.",
+      "Location": "Seoul, South Korea",
+      "RANK 2025": "113",
+      "RANK 2024": "170"
+    },
+    {
+      "Company Name": "Grupo ACS/Hochtief",
+      "Location": "Madrid, Spain†",
+      "RANK 2025": "114",
+      "RANK 2024": "138"
+    },
+    {
+      "Company Name": "Shaker Group",
+      "Location": "Dubai, U.A.E.†",
+      "RANK 2025": "115",
+      "RANK 2024": "122"
+    },
+    {
+      "Company Name": "China Railway Design Corp.",
+      "Location": "Tianjin, China†",
+      "RANK 2025": "116",
+      "RANK 2024": "87"
+    },
+    {
+      "Company Name": "STUDI International",
+      "Location": "Tunis, Tunisia†",
+      "RANK 2025": "117",
+      "RANK 2024": "115"
+    },
+    {
+      "Company Name": "SETS",
+      "Location": "Beirut, Lebanon†",
+      "RANK 2025": "118",
+      "RANK 2024": "120"
+    },
+    {
+      "Company Name": "10 Design",
+      "Location": "San Francisco, Calif., U.S.A.†",
+      "RANK 2025": "119",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "RSP Architects Planners & Engineers",
+      "Location": "Singapore†",
+      "RANK 2025": "120",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "GEI Consultants Inc.",
+      "Location": "Woburn, Mass., U.S.A.",
+      "RANK 2025": "121",
+      "RANK 2024": "129"
+    },
+    {
+      "Company Name": "Kajima Corp.",
+      "Location": "Tokyo, Japan†",
+      "RANK 2025": "122",
+      "RANK 2024": "128"
+    },
+    {
+      "Company Name": "Deerns",
+      "Location": "The Hague, Netherlands†",
+      "RANK 2025": "123",
+      "RANK 2024": "125"
+    },
+    {
+      "Company Name": "DBA Group SpA",
+      "Location": "Villorba, Italy†",
+      "RANK 2025": "124",
+      "RANK 2024": "117"
+    },
+    {
+      "Company Name": "KEPCO Engineering & Construction Co. Inc.",
+      "Location": "Gimcheon-si, South Korea",
+      "RANK 2025": "125",
+      "RANK 2024": "123"
+    },
+    {
+      "Company Name": "China Railway Group Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2025": "126",
+      "RANK 2024": "139"
+    },
+    {
+      "Company Name": "AMG Al Amar Consulting Group SA",
+      "Location": "Cairo, Egypt†",
+      "RANK 2025": "127",
+      "RANK 2024": "141"
+    },
+    {
+      "Company Name": "Beijing Urban Construction Group Co. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2025": "128",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "JLL (Jones Lang LaSalle)",
+      "Location": "Chicago, Ill., U.S.A.",
+      "RANK 2025": "129",
+      "RANK 2024": "126"
+    },
+    {
+      "Company Name": "Ingenieria Y Economia Del Transporte SA (INECO)",
+      "Location": "Madrid, Spain",
+      "RANK 2025": "130",
+      "RANK 2024": "132"
+    },
+    {
+      "Company Name": "Yooshin Engineering Corp.",
+      "Location": "Seoul, South Korea",
+      "RANK 2025": "131",
+      "RANK 2024": "179"
+    },
+    {
+      "Company Name": "Yuksel Proje AS",
+      "Location": "Ankara, Turkey†",
+      "RANK 2025": "132",
+      "RANK 2024": "162"
+    },
+    {
+      "Company Name": "IRD Engineering",
+      "Location": "Rome, Italy†",
+      "RANK 2025": "133",
+      "RANK 2024": "131"
+    },
+    {
+      "Company Name": "Waldemar S. Nelson and Co. Inc.",
+      "Location": "New Orleans, La., U.S.A.",
+      "RANK 2025": "134",
+      "RANK 2024": "130"
+    },
+    {
+      "Company Name": "CISPDR Corporation",
+      "Location": "Wuhan, China†",
+      "RANK 2025": "135",
+      "RANK 2024": "127"
+    },
+    {
+      "Company Name": "China State Construction Engineering Corp. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2025": "136",
+      "RANK 2024": "114"
+    },
+    {
+      "Company Name": "Otak Inc.",
+      "Location": "Portland, Ore., U.S.A.†",
+      "RANK 2025": "137",
+      "RANK 2024": "147"
+    },
+    {
+      "Company Name": "ME Engineers",
+      "Location": "Golden, Colo., U.S.A.†",
+      "RANK 2025": "138",
+      "RANK 2024": "156"
+    },
+    {
+      "Company Name": "PADECO Co. Ltd.",
+      "Location": "Tokyo, Japan†",
+      "RANK 2025": "139",
+      "RANK 2024": "159"
+    },
+    {
+      "Company Name": "Jan De Nul Group (Sofidra SA)",
+      "Location": "Capellen, Luxembourg†",
+      "RANK 2025": "140",
+      "RANK 2024": "146"
+    },
+    {
+      "Company Name": "Page",
+      "Location": "Washington, D.C., U.S.A.",
+      "RANK 2025": "141",
+      "RANK 2024": "81"
+    },
+    {
+      "Company Name": "Italferr SpA",
+      "Location": "Rome, Italy†",
+      "RANK 2025": "142",
+      "RANK 2024": "148"
+    },
+    {
+      "Company Name": "Offshore Oil Engineering Co. Ltd.",
+      "Location": "Tian Jin, China†",
+      "RANK 2025": "143",
+      "RANK 2024": "213"
+    },
+    {
+      "Company Name": "Weston Solutions Inc.",
+      "Location": "West Chester, Pa., U.S.A.",
+      "RANK 2025": "144",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Moffatt & Nichol",
+      "Location": "Long Beach, Calif., U.S.A.†",
+      "RANK 2025": "145",
+      "RANK 2024": "124"
+    },
+    {
+      "Company Name": "Actalent Services",
+      "Location": "Hanover, Md., U.S.A.",
+      "RANK 2025": "146",
+      "RANK 2024": "150"
+    },
+    {
+      "Company Name": "China Nerin Engineering Co. Ltd.",
+      "Location": "Nanchang, China",
+      "RANK 2025": "147",
+      "RANK 2024": "136"
+    },
+    {
+      "Company Name": "Euro Group Eng’g Consultancy",
+      "Location": "Cairo, Egypt",
+      "RANK 2025": "148",
+      "RANK 2024": "142"
+    },
+    {
+      "Company Name": "Heerim Architects & Planners Co. Ltd.",
+      "Location": "Seoul, South Korea†",
+      "RANK 2025": "149",
+      "RANK 2024": "219"
+    },
+    {
+      "Company Name": "Hassan Allam Holding",
+      "Location": "Cairo, Egypt†",
+      "RANK 2025": "150",
+      "RANK 2024": "173"
+    },
+    {
+      "Company Name": "Dar Al Omran Rasem Badran",
+      "Location": "Amman, Jordan†",
+      "RANK 2025": "151",
+      "RANK 2024": "143"
+    },
+    {
+      "Company Name": "Pace",
+      "Location": "Kuwait City, Kuwait",
+      "RANK 2025": "152",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Ghafari Associates LLC",
+      "Location": "Dearborn, Mich., U.S.A.",
+      "RANK 2025": "153",
+      "RANK 2024": "155"
+    },
+    {
+      "Company Name": "Vestal Corp.",
+      "Location": "St. Louis, Mo., U.S.A.†",
+      "RANK 2025": "154",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Euro Consult for Engineering Consultancy",
+      "Location": "Istanbul, Turkey†",
+      "RANK 2025": "155",
+      "RANK 2024": "145"
+    },
+    {
+      "Company Name": "Consolidated Contractors Group",
+      "Location": "Athens, Greece†",
+      "RANK 2025": "156",
+      "RANK 2024": "182"
+    },
+    {
+      "Company Name": "Energoprojekt Holding PLC",
+      "Location": "Belgrade, Serbia†",
+      "RANK 2025": "157",
+      "RANK 2024": "140"
+    },
+    {
+      "Company Name": "Yachiyo Engineering Co. Ltd.",
+      "Location": "Taito-Ku, Japan",
+      "RANK 2025": "158",
+      "RANK 2024": "191"
+    },
+    {
+      "Company Name": "Distance Studio Consultants",
+      "Location": "Cairo, Egypt†",
+      "RANK 2025": "159",
+      "RANK 2024": "164"
+    },
+    {
+      "Company Name": "Leidos",
+      "Location": "Reston, Va., U.S.A.",
+      "RANK 2025": "160",
+      "RANK 2024": "188"
+    },
+    {
+      "Company Name": "TRC Cos. Inc.",
+      "Location": "Windsor, Conn., U.S.A.",
+      "RANK 2025": "161",
+      "RANK 2024": "169"
+    },
+    {
+      "Company Name": "Langan",
+      "Location": "Parsippany, N.J., U.S.A.†",
+      "RANK 2025": "162",
+      "RANK 2024": "178"
+    },
+    {
+      "Company Name": "Ennead Architects LLP",
+      "Location": "New York, N.Y., U.S.A.†",
+      "RANK 2025": "163",
+      "RANK 2024": "202"
+    },
+    {
+      "Company Name": "China Design Group Co. Ltd.",
+      "Location": "Nanjing, Jiangsu, China†",
+      "RANK 2025": "164",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Archetype Group",
+      "Location": "Ho Chi Minh City, Vietnam†",
+      "RANK 2025": "165",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "MIMAR Group",
+      "Location": "Dubai, U.A.E.†",
+      "RANK 2025": "166",
+      "RANK 2024": "210"
+    },
+    {
+      "Company Name": "Hart Howerton",
+      "Location": "New York, N.Y., U.S.A.†",
+      "RANK 2025": "167",
+      "RANK 2024": "144"
+    },
+    {
+      "Company Name": "DeSimone Consulting Engineering",
+      "Location": "New York, N.Y., U.S.A.†",
+      "RANK 2025": "168",
+      "RANK 2024": "212"
+    },
+    {
+      "Company Name": "Shenyang Yuanda Aluminum Indus. Eng’g Co. Ltd.",
+      "Location": "Shenyang, China†",
+      "RANK 2025": "169",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "M3 Engineering and Technology Corp.",
+      "Location": "Tucson, Ariz., U.S.A.†",
+      "RANK 2025": "170",
+      "RANK 2024": "163"
+    },
+    {
+      "Company Name": "CRB",
+      "Location": "Kansas City, Mo., U.S.A.†",
+      "RANK 2025": "171",
+      "RANK 2024": "133"
+    },
+    {
+      "Company Name": "Nicholas O’Dwyer",
+      "Location": "Dublin, Ireland",
+      "RANK 2025": "172",
+      "RANK 2024": "187"
+    },
+    {
+      "Company Name": "ENTRUST Solutions Group",
+      "Location": "Warrenville, Ill., U.S.A.†",
+      "RANK 2025": "173",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Ware Malcomb",
+      "Location": "Irvine, Calif., U.S.A.",
+      "RANK 2025": "174",
+      "RANK 2024": "181"
+    },
+    {
+      "Company Name": "National Engineering Services Pakistan (nespak)",
+      "Location": "Lahore, Pakistan†",
+      "RANK 2025": "175",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "PCG Profabril Consulplano Global SA",
+      "Location": "Lisboa, Portugal†",
+      "RANK 2025": "176",
+      "RANK 2024": "152"
+    },
+    {
+      "Company Name": "PROYAPI Engineering and Consultancy Inc.",
+      "Location": "Ankara, Turkey",
+      "RANK 2025": "177",
+      "RANK 2024": "154"
+    },
+    {
+      "Company Name": "Stanley Consultants",
+      "Location": "Muscatine, Iowa, U.S.A.†",
+      "RANK 2025": "178",
+      "RANK 2024": "161"
+    },
+    {
+      "Company Name": "NBBJ",
+      "Location": "Seattle, Wash., U.S.A.",
+      "RANK 2025": "179",
+      "RANK 2024": "160"
+    },
+    {
+      "Company Name": "Al-Mustashar Lil-Handasah Co. (Engicon)",
+      "Location": "Amman, Jordan†",
+      "RANK 2025": "180",
+      "RANK 2024": "204"
+    },
+    {
+      "Company Name": "CES Consulting Engineers Salzgitter GmbH",
+      "Location": "Braunschweig, Germany",
+      "RANK 2025": "181",
+      "RANK 2024": "171"
+    },
+    {
+      "Company Name": "Barr Engineering Co.",
+      "Location": "Minneapolis, Minn., U.S.A.†",
+      "RANK 2025": "182",
+      "RANK 2024": "172"
+    },
+    {
+      "Company Name": "DLR Group",
+      "Location": "Seattle, Wash., U.S.A.",
+      "RANK 2025": "183",
+      "RANK 2024": "185"
+    },
+    {
+      "Company Name": "GS Engineering & Construction",
+      "Location": "Seoul, South Korea†",
+      "RANK 2025": "184",
+      "RANK 2024": "215"
+    },
+    {
+      "Company Name": "Dennis Group",
+      "Location": "Springfield, Mass., U.S.A.†",
+      "RANK 2025": "185",
+      "RANK 2024": "180"
+    },
+    {
+      "Company Name": "ACPV Architects Srl",
+      "Location": "Milan, Italy",
+      "RANK 2025": "186",
+      "RANK 2024": "175"
+    },
+    {
+      "Company Name": "Dolsar Engineering",
+      "Location": "Ankara, Turkey",
+      "RANK 2025": "187",
+      "RANK 2024": "174"
+    },
+    {
+      "Company Name": "Rebel Design+Group",
+      "Location": "Marina Del Rey, Calif., U.S.A.",
+      "RANK 2025": "188",
+      "RANK 2024": "177"
+    },
+    {
+      "Company Name": "Merrick & Co.",
+      "Location": "Greenwood Village, Colo., U.S.A.†",
+      "RANK 2025": "189",
+      "RANK 2024": "190"
+    },
+    {
+      "Company Name": "Korea Engineering Consultants Corp.",
+      "Location": "Hanam-si, South Korea",
+      "RANK 2025": "190",
+      "RANK 2024": "168"
+    },
+    {
+      "Company Name": "Miyamoto International",
+      "Location": "West Sacramento, Calif., U.S.A.†",
+      "RANK 2025": "191",
+      "RANK 2024": "183"
+    },
+    {
+      "Company Name": "Technital SpA",
+      "Location": "Verona, Italy",
+      "RANK 2025": "192",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Perkins Eastman",
+      "Location": "New York, N.Y., U.S.A.†",
+      "RANK 2025": "193",
+      "RANK 2024": "135"
+    },
+    {
+      "Company Name": "Manens SpA",
+      "Location": "Padova, Italy",
+      "RANK 2025": "194",
+      "RANK 2024": "165"
+    },
+    {
+      "Company Name": "People Dreams & Technologies Group Co. Ltd.",
+      "Location": "Tokyo, Japan†",
+      "RANK 2025": "195",
+      "RANK 2024": "153"
+    },
+    {
+      "Company Name": "Temelsu International Engineering Services Inc.",
+      "Location": "Ankara, Turkey",
+      "RANK 2025": "196",
+      "RANK 2024": "186"
+    },
+    {
+      "Company Name": "Day & Zimmermann",
+      "Location": "Philadelphia, Pa., U.S.A.†",
+      "RANK 2025": "197",
+      "RANK 2024": "193"
+    },
+    {
+      "Company Name": "Quadrante",
+      "Location": "Amadora, Portugal",
+      "RANK 2025": "198",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Kleinfelder Inc.",
+      "Location": "San Diego, Calif., U.S.A.†",
+      "RANK 2025": "199",
+      "RANK 2024": "184"
+    },
+    {
+      "Company Name": "STUDIOS architecture",
+      "Location": "Washington, D.C., U.S.A.",
+      "RANK 2025": "200",
+      "RANK 2024": "199"
+    },
+    {
+      "Company Name": "Geo-Logic Associates Inc.",
+      "Location": "Ontario, Calif., U.S.A.†",
+      "RANK 2025": "201",
+      "RANK 2024": "176"
+    },
+    {
+      "Company Name": "HSS Engineers Berhad",
+      "Location": "Kuala Lumpur, Malaysia†",
+      "RANK 2025": "202",
+      "RANK 2024": "205"
+    },
+    {
+      "Company Name": "SSOE Group",
+      "Location": "Toledo, Ohio, U.S.A.",
+      "RANK 2025": "203",
+      "RANK 2024": "151"
+    },
+    {
+      "Company Name": "Tower Engineering Professionals",
+      "Location": "Raleigh, N.C., U.S.A.",
+      "RANK 2025": "204",
+      "RANK 2024": "197"
+    },
+    {
+      "Company Name": "Gresham Smith",
+      "Location": "Nashville, Tenn., U.S.A.",
+      "RANK 2025": "205",
+      "RANK 2024": "157"
+    },
+    {
+      "Company Name": "Cheil Engineering Co. Ltd. (CHEIL)",
+      "Location": "Seoul, South Korea",
+      "RANK 2025": "206",
+      "RANK 2024": "149"
+    },
+    {
+      "Company Name": "True Environmental",
+      "Location": "New York, N.Y., U.S.A.†",
+      "RANK 2025": "207",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Pacific Consultants Co. Ltd.",
+      "Location": "Tokyo, Japan",
+      "RANK 2025": "208",
+      "RANK 2024": "158"
+    },
+    {
+      "Company Name": "Tata Projects Ltd.",
+      "Location": "Mumbai, India†",
+      "RANK 2025": "209",
+      "RANK 2024": "194"
+    },
+    {
+      "Company Name": "CHA Consulting Inc.",
+      "Location": "Albany, N.Y., U.S.A.",
+      "RANK 2025": "210",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "3TI PROGETTI",
+      "Location": "Rome, Italy",
+      "RANK 2025": "211",
+      "RANK 2024": "198"
+    },
+    {
+      "Company Name": "Coffman Engineers Inc.",
+      "Location": "Seattle, Wash., U.S.A.†",
+      "RANK 2025": "212",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "luis vidal + architects",
+      "Location": "Madrid, Spain†",
+      "RANK 2025": "213",
+      "RANK 2024": "214"
+    },
+    {
+      "Company Name": "Saman Corp.",
+      "Location": "Gwacheon-si, South Korea†",
+      "RANK 2025": "214",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Tekfen Muhendislik AS",
+      "Location": "Istanbul, Turkey",
+      "RANK 2025": "215",
+      "RANK 2024": "192"
+    },
+    {
+      "Company Name": "Politecnica Ingegneria",
+      "Location": "Modena, Italy",
+      "RANK 2025": "216",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Simpson Gumpertz & Heger",
+      "Location": "Waltham, Mass., U.S.A.",
+      "RANK 2025": "217",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "MG2",
+      "Location": "Seattle, Wash., U.S.A.",
+      "RANK 2025": "218",
+      "RANK 2024": "211"
+    },
+    {
+      "Company Name": "LEO A DALY",
+      "Location": "Omaha, Neb., U.S.A.",
+      "RANK 2025": "219",
+      "RANK 2024": "208"
+    },
+    {
+      "Company Name": "PGESCO",
+      "Location": "Cairo, Egypt",
+      "RANK 2025": "220",
+      "RANK 2024": "196"
+    },
+    {
+      "Company Name": "Dewberry",
+      "Location": "Fairfax, Va., U.S.A.†",
+      "RANK 2025": "221",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Dasan Consultants Co. Ltd.",
+      "Location": "Gumi-si, South Korea",
+      "RANK 2025": "222",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Baker Engineering & Risk Consultants Inc.",
+      "Location": "San Antonio, Texas, U.S.A.†",
+      "RANK 2025": "223",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Beijing Institute of Architectural Design",
+      "Location": "Beijing, China†",
+      "RANK 2025": "224",
+      "RANK 2024": "207"
+    },
+    {
+      "Company Name": "Denzay Arch. and Engineering",
+      "Location": "Ankara, Turkey",
+      "RANK 2025": "225",
+      "RANK 2024": "**"
+    }
+  ]
+}

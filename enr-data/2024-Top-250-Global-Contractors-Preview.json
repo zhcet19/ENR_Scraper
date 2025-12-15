@@ -1,0 +1,1365 @@
+{
+  "crawlDate": "2025-12-15T20:47:05.747Z",
+  "listName": "View Rankings",
+  "url": "https://www.enr.com/toplists/2024-Top-250-Global-Contractors-Preview",
+  "totalRows": 270,
+  "paginatedPages": 4,
+  "headers": [
+    "RANK 2025",
+    "RANK 2024",
+    "Company Name",
+    "Location"
+  ],
+  "data": [
+    {
+      "Company Name": "China State Construction Engineering Corp.   Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "1"
+    },
+    {
+      "Company Name": "China Railway Group Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "2"
+    },
+    {
+      "Company Name": "China Railway Construction Corp. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "3"
+    },
+    {
+      "Company Name": "China Communications Construction Group Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "4"
+    },
+    {
+      "Company Name": "China Metallurgical Group Corp.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "5"
+    },
+    {
+      "Company Name": "VINCI",
+      "Location": "Nanterre, France†",
+      "RANK 2024": "6"
+    },
+    {
+      "Company Name": "Power Construction Corp. of China",
+      "Location": "Beijing, China†",
+      "RANK 2024": "7"
+    },
+    {
+      "Company Name": "Shanghai Construction Group Co. Ltd.",
+      "Location": "Shanghai, China",
+      "RANK 2024": "8"
+    },
+    {
+      "Company Name": "Bouygues",
+      "Location": "Paris, France†",
+      "RANK 2024": "9"
+    },
+    {
+      "Company Name": "Grupo ACS/Hochtief",
+      "Location": "Madrid, Spain†",
+      "RANK 2024": "10"
+    },
+    {
+      "Company Name": "China Energy Engineering Corp. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "11"
+    },
+    {
+      "Company Name": "Shaanxi Construction Eng'g Holding Group Co. Ltd.",
+      "Location": "Xi'an, China†",
+      "RANK 2024": "12"
+    },
+    {
+      "Company Name": "Beijing Urban Construction Group Co. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "13"
+    },
+    {
+      "Company Name": "Shanxi Construction Investment Group Co. Ltd.",
+      "Location": "Taiyuan, China†",
+      "RANK 2024": "14"
+    },
+    {
+      "Company Name": "China National Chemical Eng’g Group Corp. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "15"
+    },
+    {
+      "Company Name": "Hyundai Engineering & Construction Co. Ltd.",
+      "Location": "Seoul, South Korea†",
+      "RANK 2024": "16"
+    },
+    {
+      "Company Name": "Greenland Infra. Constr. Group Co. Ltd.",
+      "Location": "Shanghai, China†",
+      "RANK 2024": "17"
+    },
+    {
+      "Company Name": "STRABAG SE",
+      "Location": "Vienna, Austria†",
+      "RANK 2024": "18"
+    },
+    {
+      "Company Name": "Eiffage",
+      "Location": "Vélizy-Villacoublay, France†",
+      "RANK 2024": "19"
+    },
+    {
+      "Company Name": "Larsen & Toubro Ltd.",
+      "Location": "Mumbai, India†",
+      "RANK 2024": "20"
+    },
+    {
+      "Company Name": "China State Construction Engineering Corp.   Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "1"
+    },
+    {
+      "Company Name": "China Railway Group Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "2"
+    },
+    {
+      "Company Name": "China Railway Construction Corp. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "3"
+    },
+    {
+      "Company Name": "China Communications Construction Group Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "4"
+    },
+    {
+      "Company Name": "China Metallurgical Group Corp.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "5"
+    },
+    {
+      "Company Name": "VINCI",
+      "Location": "Nanterre, France†",
+      "RANK 2024": "6"
+    },
+    {
+      "Company Name": "Power Construction Corp. of China",
+      "Location": "Beijing, China†",
+      "RANK 2024": "7"
+    },
+    {
+      "Company Name": "Shanghai Construction Group Co. Ltd.",
+      "Location": "Shanghai, China",
+      "RANK 2024": "8"
+    },
+    {
+      "Company Name": "Bouygues",
+      "Location": "Paris, France†",
+      "RANK 2024": "9"
+    },
+    {
+      "Company Name": "Grupo ACS/Hochtief",
+      "Location": "Madrid, Spain†",
+      "RANK 2024": "10"
+    },
+    {
+      "Company Name": "China Energy Engineering Corp. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "11"
+    },
+    {
+      "Company Name": "Shaanxi Construction Eng'g Holding Group Co. Ltd.",
+      "Location": "Xi'an, China†",
+      "RANK 2024": "12"
+    },
+    {
+      "Company Name": "Beijing Urban Construction Group Co. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "13"
+    },
+    {
+      "Company Name": "Shanxi Construction Investment Group Co. Ltd.",
+      "Location": "Taiyuan, China†",
+      "RANK 2024": "14"
+    },
+    {
+      "Company Name": "China National Chemical Eng’g Group Corp. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "15"
+    },
+    {
+      "Company Name": "Hyundai Engineering & Construction Co. Ltd.",
+      "Location": "Seoul, South Korea†",
+      "RANK 2024": "16"
+    },
+    {
+      "Company Name": "Greenland Infra. Constr. Group Co. Ltd.",
+      "Location": "Shanghai, China†",
+      "RANK 2024": "17"
+    },
+    {
+      "Company Name": "STRABAG SE",
+      "Location": "Vienna, Austria†",
+      "RANK 2024": "18"
+    },
+    {
+      "Company Name": "Eiffage",
+      "Location": "Vélizy-Villacoublay, France†",
+      "RANK 2024": "19"
+    },
+    {
+      "Company Name": "Larsen & Toubro Ltd.",
+      "Location": "Mumbai, India†",
+      "RANK 2024": "20"
+    },
+    {
+      "Company Name": "Hunan Construction Engineering Group Co. Ltd.",
+      "Location": "Changsha, China†",
+      "RANK 2024": "21"
+    },
+    {
+      "Company Name": "Beijing Construction Engineering Group Co. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "22"
+    },
+    {
+      "Company Name": "China Nuclear Engineering Corp. Ltd.",
+      "Location": "Shanghai, China†",
+      "RANK 2024": "23"
+    },
+    {
+      "Company Name": "Kajima Corp.",
+      "Location": "Tokyo, Japan†",
+      "RANK 2024": "24"
+    },
+    {
+      "Company Name": "Obayashi Corp.",
+      "Location": "Tokyo, Japan†",
+      "RANK 2024": "25"
+    },
+    {
+      "Company Name": "Zhejiang Construction Investment Group Co. Ltd.",
+      "Location": "Hangzhou, China†",
+      "RANK 2024": "26"
+    },
+    {
+      "Company Name": "Samsung C&T Corp.",
+      "Location": "Seoul, South Korea",
+      "RANK 2024": "27"
+    },
+    {
+      "Company Name": "Skanska AB",
+      "Location": "Stockholm, Sweden†",
+      "RANK 2024": "28"
+    },
+    {
+      "Company Name": "TBEA Co. Ltd.",
+      "Location": "Changji, China†",
+      "RANK 2024": "29"
+    },
+    {
+      "Company Name": "Kiewit Corp.",
+      "Location": "Omaha, Neb., U.S.A.†",
+      "RANK 2024": "30"
+    },
+    {
+      "Company Name": "Anhui Construction Engineering Group Co. Ltd.",
+      "Location": "Hefei City, China†",
+      "RANK 2024": "31"
+    },
+    {
+      "Company Name": "Bechtel",
+      "Location": "Reston, Va., U.S.A.†",
+      "RANK 2024": "32"
+    },
+    {
+      "Company Name": "Shandong Hi-Speed Group Co. Ltd.",
+      "Location": "Jinan, China†",
+      "RANK 2024": "33"
+    },
+    {
+      "Company Name": "Saipem SpA",
+      "Location": "Milano, Italy†",
+      "RANK 2024": "34"
+    },
+    {
+      "Company Name": "MasTec Inc.",
+      "Location": "Coral Gables, Fla., U.S.A.†",
+      "RANK 2024": "35"
+    },
+    {
+      "Company Name": "Shimizu Corp.",
+      "Location": "Tokyo, Japan†",
+      "RANK 2024": "36"
+    },
+    {
+      "Company Name": "Shanghai Urban Construction (Group) Co. Ltd",
+      "Location": "Shanghai, China†",
+      "RANK 2024": "37"
+    },
+    {
+      "Company Name": "The Whiting-Turner Contracting Co.",
+      "Location": "Baltimore, Md., U.S.A.",
+      "RANK 2024": "38"
+    },
+    {
+      "Company Name": "STO Building Group",
+      "Location": "New York, N.Y., U.S.A.†",
+      "RANK 2024": "39"
+    },
+    {
+      "Company Name": "China National Machinery Industry Corp.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "40"
+    },
+    {
+      "Company Name": "webuild SpA",
+      "Location": "Rozzano, Italy†",
+      "RANK 2024": "41"
+    },
+    {
+      "Company Name": "Taisei Corp.",
+      "Location": "Tokyo, Japan†",
+      "RANK 2024": "42"
+    },
+    {
+      "Company Name": "China Petroleum Engineering Co. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "43"
+    },
+    {
+      "Company Name": "Takenaka Corp.",
+      "Location": "Osaka, Japan†",
+      "RANK 2024": "44"
+    },
+    {
+      "Company Name": "GS Engineering & Construction",
+      "Location": "Seoul, South Korea†",
+      "RANK 2024": "45"
+    },
+    {
+      "Company Name": "SINOPEC Engineering (Group) Co. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "46"
+    },
+    {
+      "Company Name": "Hyundai Engineering Co. Ltd.",
+      "Location": "Seoul, South Korea",
+      "RANK 2024": "47"
+    },
+    {
+      "Company Name": "FCC SA",
+      "Location": "Madrid, Spain†",
+      "RANK 2024": "48"
+    },
+    {
+      "Company Name": "DPR Construction",
+      "Location": "Redwood City, Calif., U.S.A.†",
+      "RANK 2024": "49"
+    },
+    {
+      "Company Name": "Fluor",
+      "Location": "Irving, Texas, U.S.A.†",
+      "RANK 2024": "50"
+    },
+    {
+      "Company Name": "Dongfang Electric Corp.",
+      "Location": "Chengdu, China†",
+      "RANK 2024": "51"
+    },
+    {
+      "Company Name": "Ferrovial",
+      "Location": "Amsterdam, Netherlands",
+      "RANK 2024": "52"
+    },
+    {
+      "Company Name": "Qingjian Group Co. Ltd.",
+      "Location": "Qingdao, China†",
+      "RANK 2024": "53"
+    },
+    {
+      "Company Name": "Daewoo Engineering and Construction",
+      "Location": "Seoul, South Korea†",
+      "RANK 2024": "54"
+    },
+    {
+      "Company Name": "Zhongtian Construction Group Co. Ltd.",
+      "Location": "Hangzhou, China",
+      "RANK 2024": "55"
+    },
+    {
+      "Company Name": "Sichuan Road and Bridge (Group) Co. Ltd.",
+      "Location": "Chengdu, China†",
+      "RANK 2024": "56"
+    },
+    {
+      "Company Name": "Hebei Construction Group Co. Ltd.",
+      "Location": "Shijiazhuang, China†",
+      "RANK 2024": "57"
+    },
+    {
+      "Company Name": "Samsung E&A Co. Ltd.",
+      "Location": "Seoul, South Korea†",
+      "RANK 2024": "58"
+    },
+    {
+      "Company Name": "McDermott International",
+      "Location": "Houston, Texas, U.S.A.",
+      "RANK 2024": "59"
+    },
+    {
+      "Company Name": "POSCO Eco & Challenge",
+      "Location": "Incheon, South Korea†",
+      "RANK 2024": "60"
+    },
+    {
+      "Company Name": "PCL Construction",
+      "Location": "Denver, Colo., U.S.A.†",
+      "RANK 2024": "61"
+    },
+    {
+      "Company Name": "PORR AG",
+      "Location": "Vienna, Austria",
+      "RANK 2024": "62"
+    },
+    {
+      "Company Name": "Gilbane Building Co.",
+      "Location": "Providence, R.I., U.S.A.†",
+      "RANK 2024": "63"
+    },
+    {
+      "Company Name": "ACCIONA",
+      "Location": "Madrid, Spain",
+      "RANK 2024": "64"
+    },
+    {
+      "Company Name": "Hensel Phelps",
+      "Location": "Greeley, Colo., U.S.A.",
+      "RANK 2024": "65"
+    },
+    {
+      "Company Name": "Exyte GmbH",
+      "Location": "Stuttgart, Germany†",
+      "RANK 2024": "66"
+    },
+    {
+      "Company Name": "AECOM",
+      "Location": "Dallas, Texas, U.S.A.",
+      "RANK 2024": "67"
+    },
+    {
+      "Company Name": "The Walsh Group",
+      "Location": "Chicago, Ill., U.S.A.",
+      "RANK 2024": "68"
+    },
+    {
+      "Company Name": "Jiangsu Provincial Construction Group Co. Ltd.",
+      "Location": "Nanjing, China†",
+      "RANK 2024": "69"
+    },
+    {
+      "Company Name": "Clark Group",
+      "Location": "McLean, Va., U.S.A.",
+      "RANK 2024": "70"
+    },
+    {
+      "Company Name": "ARCO Construction Cos.",
+      "Location": "St. Louis, Mo., U.S.A.",
+      "RANK 2024": "71"
+    },
+    {
+      "Company Name": "EllisDon Corp.",
+      "Location": "Mississauga, Canada",
+      "RANK 2024": "72"
+    },
+    {
+      "Company Name": "JE Dunn Construction Co.",
+      "Location": "Kansas City, Mo., U.S.A.",
+      "RANK 2024": "73"
+    },
+    {
+      "Company Name": "Barton Malow Holdings LLC",
+      "Location": "Southfield, Mich., U.S.A.†",
+      "RANK 2024": "74"
+    },
+    {
+      "Company Name": "Sinoma International Engineering Co. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "75"
+    },
+    {
+      "Company Name": "Zhejiang Communications Constr. Group Co. Ltd.",
+      "Location": "Hangzhou, China†",
+      "RANK 2024": "76"
+    },
+    {
+      "Company Name": "Jiangsu Zhongnan Constr. Industry Group Co. Ltd",
+      "Location": "Nantong, China†",
+      "RANK 2024": "77"
+    },
+    {
+      "Company Name": "McCarthy Holdings Inc.",
+      "Location": "St. Louis, Mo., U.S.A.†",
+      "RANK 2024": "78"
+    },
+    {
+      "Company Name": "Mota-Engil",
+      "Location": "Porto, Portugal†",
+      "RANK 2024": "79"
+    },
+    {
+      "Company Name": "Walbridge",
+      "Location": "Detroit, Mich., U.S.A.",
+      "RANK 2024": "80"
+    },
+    {
+      "Company Name": "Jiangxi Constr. Engineering (Group) Corp. Ltd.",
+      "Location": "Nanchang, China†",
+      "RANK 2024": "81"
+    },
+    {
+      "Company Name": "Brasfield & Gorrie",
+      "Location": "Birmingham, Ala., U.S.A.",
+      "RANK 2024": "82"
+    },
+    {
+      "Company Name": "Clayco",
+      "Location": "Chicago, Ill., U.S.A.†",
+      "RANK 2024": "83"
+    },
+    {
+      "Company Name": "Longxin Construction Group Co. Ltd.",
+      "Location": "Nantong, China",
+      "RANK 2024": "84"
+    },
+    {
+      "Company Name": "Hoffman Construction",
+      "Location": "Portland, Ore., U.S.A.",
+      "RANK 2024": "85"
+    },
+    {
+      "Company Name": "Suffolk Construction Co. Inc.",
+      "Location": "Boston, Mass., U.S.A.†",
+      "RANK 2024": "86"
+    },
+    {
+      "Company Name": "HITT Contracting",
+      "Location": "Falls Church, Va., U.S.A.",
+      "RANK 2024": "87"
+    },
+    {
+      "Company Name": "Mortenson",
+      "Location": "Minneapolis, Minn., U.S.A.†",
+      "RANK 2024": "88"
+    },
+    {
+      "Company Name": "Zachry Group",
+      "Location": "San Antonio, Texas, U.S.A.†",
+      "RANK 2024": "89"
+    },
+    {
+      "Company Name": "XPCC Construction & Engineering (Group) Co. Ltd.",
+      "Location": "Urumqi, China†",
+      "RANK 2024": "90"
+    },
+    {
+      "Company Name": "Lotte Engineering & Construction Co. Ltd.",
+      "Location": "Seoul, South Korea†",
+      "RANK 2024": "91"
+    },
+    {
+      "Company Name": "The Yates Cos. Inc.",
+      "Location": "Philadelphia, Miss., U.S.A.†",
+      "RANK 2024": "92"
+    },
+    {
+      "Company Name": "Holder Construction",
+      "Location": "Atlanta, Ga., U.S.A.",
+      "RANK 2024": "93"
+    },
+    {
+      "Company Name": "Sacyr",
+      "Location": "Madrid, Spain†",
+      "RANK 2024": "94"
+    },
+    {
+      "Company Name": "Zhongyifeng Construction Group Co. Ltd.",
+      "Location": "Suzhou, China",
+      "RANK 2024": "95"
+    },
+    {
+      "Company Name": "Tutor Perini Corp.",
+      "Location": "Sylmar, Calif., U.S.A.†",
+      "RANK 2024": "96"
+    },
+    {
+      "Company Name": "JGC Holdings Corp.",
+      "Location": "Yokohama, Japan†",
+      "RANK 2024": "97"
+    },
+    {
+      "Company Name": "Maire SpA",
+      "Location": "Milan, Italy†",
+      "RANK 2024": "98"
+    },
+    {
+      "Company Name": "Balfour Beatty US",
+      "Location": "Dallas, Texas, U.S.A.†",
+      "RANK 2024": "99"
+    },
+    {
+      "Company Name": "Royal Boskalis BV",
+      "Location": "Papendrecht, Netherlands†",
+      "RANK 2024": "100"
+    },
+    {
+      "Company Name": "Austin Industries",
+      "Location": "Dallas, Texas, U.S.A.",
+      "RANK 2024": "101"
+    },
+    {
+      "Company Name": "National Marine Dredging Co. (NMDC)",
+      "Location": "Abu Dhabi, U.A.E.†",
+      "RANK 2024": "102"
+    },
+    {
+      "Company Name": "China Railway Design Corp.",
+      "Location": "Tianjin, China†",
+      "RANK 2024": "103"
+    },
+    {
+      "Company Name": "Aecon Group Inc.",
+      "Location": "Toronto, Canada",
+      "RANK 2024": "104"
+    },
+    {
+      "Company Name": "Michels Corp.",
+      "Location": "Brownsville, Wis., U.S.A.†",
+      "RANK 2024": "105"
+    },
+    {
+      "Company Name": "Technip Energies",
+      "Location": "Nanterre, France†",
+      "RANK 2024": "106"
+    },
+    {
+      "Company Name": "Kinden Corp.",
+      "Location": "Chiyoda-ku, Japan†",
+      "RANK 2024": "107"
+    },
+    {
+      "Company Name": "Offshore Oil Engineering Co. Ltd.",
+      "Location": "Tianjin, China†",
+      "RANK 2024": "108"
+    },
+    {
+      "Company Name": "DL E&C Co. Ltd.",
+      "Location": "Seoul, South Korea†",
+      "RANK 2024": "109"
+    },
+    {
+      "Company Name": "Swinerton",
+      "Location": "Concord, Calif., U.S.A.",
+      "RANK 2024": "110"
+    },
+    {
+      "Company Name": "Penta-Ocean Construction Co. Ltd.",
+      "Location": "Bunkyo-ku, Japan†",
+      "RANK 2024": "111"
+    },
+    {
+      "Company Name": "Urbacon Trading and Contracting WLL",
+      "Location": "Doha, Qatar†",
+      "RANK 2024": "112"
+    },
+    {
+      "Company Name": "Alberici-Flintco",
+      "Location": "St. Louis, Mo., U.S.A.†",
+      "RANK 2024": "113"
+    },
+    {
+      "Company Name": "Shapoorji Pallonji & Co. Private Ltd.",
+      "Location": "Mumbai, India†",
+      "RANK 2024": "114"
+    },
+    {
+      "Company Name": "Hanwha Engineering & Construction",
+      "Location": "Seoul, South Korea",
+      "RANK 2024": "115"
+    },
+    {
+      "Company Name": "Burns & McDonnell",
+      "Location": "Kansas City, Mo., U.S.A.†",
+      "RANK 2024": "116"
+    },
+    {
+      "Company Name": "Sinosteel Equipment & Engineering Co. Ltd.",
+      "Location": "Beijing, China",
+      "RANK 2024": "117"
+    },
+    {
+      "Company Name": "China Wu Yi Co. Ltd.",
+      "Location": "Fuzhou, China†",
+      "RANK 2024": "118"
+    },
+    {
+      "Company Name": "Granite Construction Inc.",
+      "Location": "Watsonville, Calif., U.S.A.†",
+      "RANK 2024": "119"
+    },
+    {
+      "Company Name": "Gray",
+      "Location": "Lexington, Ky., U.S.A.†",
+      "RANK 2024": "120"
+    },
+    {
+      "Company Name": "JSC Mosinzhproekt",
+      "Location": "Moscow, Russia†",
+      "RANK 2024": "121"
+    },
+    {
+      "Company Name": "OHLA",
+      "Location": "Madrid, Spain†",
+      "RANK 2024": "122"
+    },
+    {
+      "Company Name": "Electra Ltd.",
+      "Location": "Ramat Gan, Israel†",
+      "RANK 2024": "123"
+    },
+    {
+      "Company Name": "Jan De Nul Group (Sofidra SA)",
+      "Location": "Capellen, Luxembourg†",
+      "RANK 2024": "124"
+    },
+    {
+      "Company Name": "Orascom Construction PLC",
+      "Location": "Dubai, U.A.E.†",
+      "RANK 2024": "125"
+    },
+    {
+      "Company Name": "CTCI Corp.",
+      "Location": "Taipei, Taiwan†",
+      "RANK 2024": "126"
+    },
+    {
+      "Company Name": "Moss",
+      "Location": "Fort Lauderdale, Fla., U.S.A.",
+      "RANK 2024": "127"
+    },
+    {
+      "Company Name": "Ryan Cos. US Inc.",
+      "Location": "Minneapolis, Minn., U.S.A.",
+      "RANK 2024": "128"
+    },
+    {
+      "Company Name": "Consigli Building Group Inc.",
+      "Location": "Milford, Mass., U.S.A.†",
+      "RANK 2024": "129"
+    },
+    {
+      "Company Name": "Graham",
+      "Location": "Calgary, Canada†",
+      "RANK 2024": "130"
+    },
+    {
+      "Company Name": "Wood",
+      "Location": "Aberdeen, Scotland, U.K.",
+      "RANK 2024": "131"
+    },
+    {
+      "Company Name": "Renaissance Construction",
+      "Location": "Ankara, Turkey†",
+      "RANK 2024": "132"
+    },
+    {
+      "Company Name": "LIMAK INSAAT SANAYI VE TICARET AS",
+      "Location": "Ankara, Turkey",
+      "RANK 2024": "133"
+    },
+    {
+      "Company Name": "Shandong Electric Power Eng’g Consulting",
+      "Location": "Jian, China†",
+      "RANK 2024": "134"
+    },
+    {
+      "Company Name": "Per Aarsleff Holding A/S",
+      "Location": "Viby J, Denmark†",
+      "RANK 2024": "135"
+    },
+    {
+      "Company Name": "Black & Veatch",
+      "Location": "Overland Park, Kan., U.S.A.†",
+      "RANK 2024": "136"
+    },
+    {
+      "Company Name": "Velesstroy LLC",
+      "Location": "Moscow, Russia",
+      "RANK 2024": "137"
+    },
+    {
+      "Company Name": "Turner Industries Group LLC",
+      "Location": "Baton Rouge, La., U.S.A.†",
+      "RANK 2024": "138"
+    },
+    {
+      "Company Name": "Danieli & C. O.M. SpA",
+      "Location": "Buttrio, Italy†",
+      "RANK 2024": "139"
+    },
+    {
+      "Company Name": "Hunan Road & Bridge Constr. Group",
+      "Location": "Changsha, China†",
+      "RANK 2024": "140"
+    },
+    {
+      "Company Name": "Bayburt Group",
+      "Location": "Ankara, Turkey†",
+      "RANK 2024": "141"
+    },
+    {
+      "Company Name": "Yanjian Group Co. Ltd.",
+      "Location": "Yantai, China†",
+      "RANK 2024": "142"
+    },
+    {
+      "Company Name": "Big-D Construction",
+      "Location": "Salt Lake City, Utah, U.S.A.†",
+      "RANK 2024": "143"
+    },
+    {
+      "Company Name": "Long Jian Road & Bridge Co. Ltd.",
+      "Location": "Harbin, China",
+      "RANK 2024": "144"
+    },
+    {
+      "Company Name": "China Aluminum International Eng’g Corp. Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "145"
+    },
+    {
+      "Company Name": "Alston Construction",
+      "Location": "Atlanta, Ga., U.S.A.",
+      "RANK 2024": "146"
+    },
+    {
+      "Company Name": "The Kokosing Group of Cos.",
+      "Location": "Westerville, Ohio, U.S.A.†",
+      "RANK 2024": "147"
+    },
+    {
+      "Company Name": "Hassan Allam Holding",
+      "Location": "Cairo, Egypt†",
+      "RANK 2024": "148"
+    },
+    {
+      "Company Name": "Petro. Projects and Tech. Consult. Co. - PETROJET",
+      "Location": "New Cairo, Egypt",
+      "RANK 2024": "149"
+    },
+    {
+      "Company Name": "Sundt Construction Inc.",
+      "Location": "Tempe, Ariz., U.S.A.",
+      "RANK 2024": "150"
+    },
+    {
+      "Company Name": "Petrofac Ltd.",
+      "Location": "Jersey, England, U.K.†",
+      "RANK 2024": "151"
+    },
+    {
+      "Company Name": "CITIC Construction Co. Ltd.",
+      "Location": "Beijing, China",
+      "RANK 2024": "152"
+    },
+    {
+      "Company Name": "Sumitomo Mitsui Construction Co. Ltd.",
+      "Location": "Chuo-ku, Japan†",
+      "RANK 2024": "153"
+    },
+    {
+      "Company Name": "Choate Construction Co.",
+      "Location": "Atlanta, Ga., U.S.A.",
+      "RANK 2024": "154"
+    },
+    {
+      "Company Name": "JiangSu TongZhou No.4 Constr. Group Co. Ltd.",
+      "Location": "Nantong, China",
+      "RANK 2024": "155"
+    },
+    {
+      "Company Name": "Shandong Zijian Construction Group Co. Ltd.",
+      "Location": "Zibo, China",
+      "RANK 2024": "156"
+    },
+    {
+      "Company Name": "The Arab Contractors (Osman Ahmed Osman & Co.)",
+      "Location": "Cairo, Egypt†",
+      "RANK 2024": "157"
+    },
+    {
+      "Company Name": "Tata Projects Ltd.",
+      "Location": "Mumbai, India†",
+      "RANK 2024": "158"
+    },
+    {
+      "Company Name": "Clune Construction",
+      "Location": "Chicago, Ill., U.S.A.",
+      "RANK 2024": "159"
+    },
+    {
+      "Company Name": "F.A. Wilhelm Construction",
+      "Location": "Indianapolis, Ind., U.S.A.†",
+      "RANK 2024": "160"
+    },
+    {
+      "Company Name": "Crossland Construction Co. Inc.",
+      "Location": "Columbus, Kan., U.S.A.",
+      "RANK 2024": "161"
+    },
+    {
+      "Company Name": "Enka Insaat ve Sanayi AS",
+      "Location": "Istanbul, Turkey†",
+      "RANK 2024": "162"
+    },
+    {
+      "Company Name": "Robins & Morton",
+      "Location": "Birmingham, Ala., U.S.A.",
+      "RANK 2024": "163"
+    },
+    {
+      "Company Name": "Evans General Contractors",
+      "Location": "Alpharetta, Ga., U.S.A.",
+      "RANK 2024": "164"
+    },
+    {
+      "Company Name": "Shandong Hi-Speed Dejian Group Co. Ltd.",
+      "Location": "Dezhou City, China",
+      "RANK 2024": "165"
+    },
+    {
+      "Company Name": "Devcon Construction Inc.",
+      "Location": "Milpitas, Calif., U.S.A.",
+      "RANK 2024": "166"
+    },
+    {
+      "Company Name": "Sterling Infrastructure Inc.",
+      "Location": "The Woodlands, Texas, U.S.A.†",
+      "RANK 2024": "167"
+    },
+    {
+      "Company Name": "Harvey | Harvey-Cleary",
+      "Location": "Houston, Texas, U.S.A.†",
+      "RANK 2024": "168"
+    },
+    {
+      "Company Name": "ITINERA SpA",
+      "Location": "Tortona, Italy†",
+      "RANK 2024": "169"
+    },
+    {
+      "Company Name": "Ames Construction Inc.",
+      "Location": "Burnsville, Minn., U.S.A.",
+      "RANK 2024": "170"
+    },
+    {
+      "Company Name": "China Jiangsu Int’l Econ. and Tech. Coop. Group Ltd.",
+      "Location": "Nanjing, China†",
+      "RANK 2024": "171"
+    },
+    {
+      "Company Name": "Pepper Construction",
+      "Location": "Chicago, Ill., U.S.A.†",
+      "RANK 2024": "172"
+    },
+    {
+      "Company Name": "BI Group",
+      "Location": "Astana, Kazakhstan†",
+      "RANK 2024": "173"
+    },
+    {
+      "Company Name": "Garney Holding Co.",
+      "Location": "North Kansas City, Mo., U.S.A.†",
+      "RANK 2024": "174"
+    },
+    {
+      "Company Name": "Hunter Roberts Construction Group LLC",
+      "Location": "New York, N.Y., U.S.A.",
+      "RANK 2024": "175"
+    },
+    {
+      "Company Name": "Nantong Construction Group Co. Ltd.",
+      "Location": "Nantong, China†",
+      "RANK 2024": "176"
+    },
+    {
+      "Company Name": "CORE Construction Group",
+      "Location": "Frisco, Texas, U.S.A.",
+      "RANK 2024": "177"
+    },
+    {
+      "Company Name": "Manhattan Construction Group",
+      "Location": "Tulsa, Okla., U.S.A.†",
+      "RANK 2024": "178"
+    },
+    {
+      "Company Name": "J.T. Magen & Co. Inc.",
+      "Location": "New York, N.Y., U.S.A.",
+      "RANK 2024": "179"
+    },
+    {
+      "Company Name": "Ic Ictas Insaat Sanayi Ve Ticaret AS",
+      "Location": "Istanbul, Turkey†",
+      "RANK 2024": "180"
+    },
+    {
+      "Company Name": "Haskell",
+      "Location": "Jacksonville, Fla., U.S.A.†",
+      "RANK 2024": "181"
+    },
+    {
+      "Company Name": "Toyo Engineering Corp.",
+      "Location": "Narashino-shi, Japan†",
+      "RANK 2024": "182"
+    },
+    {
+      "Company Name": "Fortis Construction Inc.",
+      "Location": "Portland, Ore., U.S.A.",
+      "RANK 2024": "183"
+    },
+    {
+      "Company Name": "Kolin Insaat Turizm Sanayi ve Ticaret AS",
+      "Location": "Ankara, Turkey",
+      "RANK 2024": "184"
+    },
+    {
+      "Company Name": "Miron Construction Co. Inc.",
+      "Location": "Neenah, Wis., U.S.A.",
+      "RANK 2024": "185"
+    },
+    {
+      "Company Name": "Sinopec Zhongyuan Petroleum Engineering Ltd.",
+      "Location": "Puyang City, China†",
+      "RANK 2024": "186"
+    },
+    {
+      "Company Name": "E. E. Reed Construction",
+      "Location": "Sugar Land, Texas, U.S.A.†",
+      "RANK 2024": "187"
+    },
+    {
+      "Company Name": "Afcons Infrastructure Ltd.",
+      "Location": "Mumbai, India†",
+      "RANK 2024": "188"
+    },
+    {
+      "Company Name": "Brinkmann Constructors",
+      "Location": "Chesterfield, Mo., U.S.A.",
+      "RANK 2024": "189"
+    },
+    {
+      "Company Name": "Shawmut Design and Construction",
+      "Location": "Boston, Mass., U.S.A.",
+      "RANK 2024": "190"
+    },
+    {
+      "Company Name": "The Boldt Co.",
+      "Location": "Appleton, Wis., U.S.A.",
+      "RANK 2024": "191"
+    },
+    {
+      "Company Name": "FCL Builders",
+      "Location": "Itasca, Ill., U.S.A.",
+      "RANK 2024": "192"
+    },
+    {
+      "Company Name": "Hathaway Dinwiddie Construction Co.",
+      "Location": "San Francisco, Calif., U.S.A.",
+      "RANK 2024": "193"
+    },
+    {
+      "Company Name": "Power Construction Co. LLC",
+      "Location": "Chicago, Ill., U.S.A.",
+      "RANK 2024": "194"
+    },
+    {
+      "Company Name": "Worley Ltd.",
+      "Location": "Sydney, Australia",
+      "RANK 2024": "195"
+    },
+    {
+      "Company Name": "Summit Contracting Group Inc.",
+      "Location": "Jacksonville, Fla., U.S.A.",
+      "RANK 2024": "196"
+    },
+    {
+      "Company Name": "Construction Partners",
+      "Location": "Dothan, Ala., U.S.A.",
+      "RANK 2024": "197"
+    },
+    {
+      "Company Name": "Messer Construction Co.",
+      "Location": "Cincinnati, Ohio, U.S.A.†",
+      "RANK 2024": "198"
+    },
+    {
+      "Company Name": "Okland Construction",
+      "Location": "Salt Lake City, Utah, U.S.A.†",
+      "RANK 2024": "199"
+    },
+    {
+      "Company Name": "The Conlan Company",
+      "Location": "Marietta, Ga., U.S.A.",
+      "RANK 2024": "200"
+    },
+    {
+      "Company Name": "China Triumph International Engineering Co. Ltd.",
+      "Location": "Shanghai, China†",
+      "RANK 2024": "201"
+    },
+    {
+      "Company Name": "The Rudolph Libbe Cos. Inc.",
+      "Location": "Walbridge, Ohio, U.S.A.†",
+      "RANK 2024": "202"
+    },
+    {
+      "Company Name": "The Christman Co.",
+      "Location": "Lansing, Mich., U.S.A.†",
+      "RANK 2024": "203"
+    },
+    {
+      "Company Name": "Build Group",
+      "Location": "San Francisco, Calif., U.S.A.",
+      "RANK 2024": "204"
+    },
+    {
+      "Company Name": "Grupo Empresarial San Jose SA",
+      "Location": "Pontevedra, Spain†",
+      "RANK 2024": "205"
+    },
+    {
+      "Company Name": "Consolidated Contractors Group",
+      "Location": "Athens, Greece†",
+      "RANK 2024": "206"
+    },
+    {
+      "Company Name": "Ircon International Ltd.",
+      "Location": "New Delhi, India†",
+      "RANK 2024": "207"
+    },
+    {
+      "Company Name": "Samet Corp.",
+      "Location": "Greensboro, N.C., U.S.A.",
+      "RANK 2024": "208"
+    },
+    {
+      "Company Name": "Lendlease",
+      "Location": "New York, N.Y., U.S.A.†",
+      "RANK 2024": "209"
+    },
+    {
+      "Company Name": "SICIM SpA",
+      "Location": "Busseto, Italy",
+      "RANK 2024": "210"
+    },
+    {
+      "Company Name": "Adolfson & Peterson Construction",
+      "Location": "Minneapolis, Minn., U.S.A.†",
+      "RANK 2024": "211"
+    },
+    {
+      "Company Name": "PJ Dick - Trumbull - Lindy Group",
+      "Location": "Pittsburgh, Pa., U.S.A.†",
+      "RANK 2024": "212"
+    },
+    {
+      "Company Name": "BL Harbert International",
+      "Location": "Birmingham, Ala., U.S.A.",
+      "RANK 2024": "213"
+    },
+    {
+      "Company Name": "Impresa Pizzarotti & C. SpA",
+      "Location": "Parma, Italy†",
+      "RANK 2024": "214"
+    },
+    {
+      "Company Name": "Day & Zimmermann",
+      "Location": "Philadelphia, Pa., U.S.A.†",
+      "RANK 2024": "215"
+    },
+    {
+      "Company Name": "The McShane Cos.",
+      "Location": "Rosemont, Ill., U.S.A.†",
+      "RANK 2024": "216"
+    },
+    {
+      "Company Name": "Nabholz",
+      "Location": "Conway, Ark., U.S.A.",
+      "RANK 2024": "217"
+    },
+    {
+      "Company Name": "Allan Myers",
+      "Location": "Worcester, Pa., U.S.A.",
+      "RANK 2024": "218"
+    },
+    {
+      "Company Name": "J.H. Findorff & Son Inc.",
+      "Location": "Madison, Wis., U.S.A.",
+      "RANK 2024": "219"
+    },
+    {
+      "Company Name": "DEPCOM Power",
+      "Location": "Scottsdale, Ariz., U.S.A.",
+      "RANK 2024": "220"
+    },
+    {
+      "Company Name": "Atlas Group",
+      "Location": "Richmond, Texas, U.S.A.†",
+      "RANK 2024": "221"
+    },
+    {
+      "Company Name": "W.E. O’Neil Construction",
+      "Location": "Chicago, Ill., U.S.A.†",
+      "RANK 2024": "222"
+    },
+    {
+      "Company Name": "BAUER AG",
+      "Location": "Schrobenhausen, Germany†",
+      "RANK 2024": "223"
+    },
+    {
+      "Company Name": "Ghella SpA",
+      "Location": "Rome, Italy†",
+      "RANK 2024": "224"
+    },
+    {
+      "Company Name": "BNBuilders",
+      "Location": "Seattle, Wash., U.S.A.",
+      "RANK 2024": "225"
+    },
+    {
+      "Company Name": "Dennis Group",
+      "Location": "Springfield, Mass., U.S.A.†",
+      "RANK 2024": "226"
+    },
+    {
+      "Company Name": "Norinco International Cooperation Ltd.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "227"
+    },
+    {
+      "Company Name": "Nurol Construction and Trading Co. Inc.",
+      "Location": "Istanbul, Turkey†",
+      "RANK 2024": "228"
+    },
+    {
+      "Company Name": "SalfaCorp SA",
+      "Location": "Santiago, Chile†",
+      "RANK 2024": "229"
+    },
+    {
+      "Company Name": "ASRC Industrial",
+      "Location": "Tempe, Ariz., U.S.A.†",
+      "RANK 2024": "230"
+    },
+    {
+      "Company Name": "The PENTA Building Group",
+      "Location": "Las Vegas, Nev., U.S.A.†",
+      "RANK 2024": "231"
+    },
+    {
+      "Company Name": "Southland Holdings",
+      "Location": "Grapevine, Texas, U.S.A.†",
+      "RANK 2024": "232"
+    },
+    {
+      "Company Name": "SADE - CGTH",
+      "Location": "Paris, France†",
+      "RANK 2024": "233"
+    },
+    {
+      "Company Name": "The Cianbro Cos.",
+      "Location": "Pittsfield, Maine, U.S.A.†",
+      "RANK 2024": "234"
+    },
+    {
+      "Company Name": "China 15th Metallurgical Constr. Group Co. Ltd.",
+      "Location": "Wuhan, China†",
+      "RANK 2024": "235"
+    },
+    {
+      "Company Name": "LeChase Construction Services LLC",
+      "Location": "Rochester, N.Y., U.S.A.",
+      "RANK 2024": "236"
+    },
+    {
+      "Company Name": "Rycon Construction Inc.",
+      "Location": "Pittsburgh, Pa., U.S.A.",
+      "RANK 2024": "237"
+    },
+    {
+      "Company Name": "China Geo-Engineering Corp.",
+      "Location": "Beijing, China†",
+      "RANK 2024": "238"
+    },
+    {
+      "Company Name": "Herzog",
+      "Location": "St. Joseph, Mo., U.S.A.†",
+      "RANK 2024": "239"
+    },
+    {
+      "Company Name": "RailWorks",
+      "Location": "New York, N.Y., U.S.A.",
+      "RANK 2024": "240"
+    },
+    {
+      "Company Name": "McGough",
+      "Location": "St. Paul, Minn., U.S.A.",
+      "RANK 2024": "241"
+    },
+    {
+      "Company Name": "Ssangyong Engineering & Construction Co. Ltd.",
+      "Location": "Seoul, South Korea†",
+      "RANK 2024": "242"
+    },
+    {
+      "Company Name": "Blue Ridge Power",
+      "Location": "Asheville, N.C., U.S.A.†",
+      "RANK 2024": "243"
+    },
+    {
+      "Company Name": "Joeris General Contractors",
+      "Location": "San Antonio, Texas, U.S.A.",
+      "RANK 2024": "244"
+    },
+    {
+      "Company Name": "JRM Construction Management",
+      "Location": "New York, N.Y., U.S.A.",
+      "RANK 2024": "245"
+    },
+    {
+      "Company Name": "Yapi Merkezi Insaat Ve Sanayi AS",
+      "Location": "Istanbul, Turkey†",
+      "RANK 2024": "246"
+    },
+    {
+      "Company Name": "Zhengtai Group Co. Ltd.",
+      "Location": "Taizhou, China",
+      "RANK 2024": "247"
+    },
+    {
+      "Company Name": "Cengiz Construction Industry & Trade Co. Inc.",
+      "Location": "Istanbul, Turkey",
+      "RANK 2024": "248"
+    },
+    {
+      "Company Name": "Emery Sapp Construction Inc.",
+      "Location": "Columbia, Mo., U.S.A.†",
+      "RANK 2024": "249"
+    },
+    {
+      "Company Name": "Clancy & Theys Construction",
+      "Location": "Raleigh, N.C., U.S.A.",
+      "RANK 2024": "250"
+    }
+  ]
+}

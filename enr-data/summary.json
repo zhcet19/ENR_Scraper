@@ -1,0 +1,98 @@
+{
+  "crawlDate": "2025-12-15T20:47:05.748Z",
+  "totalLists": 13,
+  "totalRows": 2088,
+  "files": [
+    {
+      "filename": "2025-top-500-design-firms-preview.json",
+      "listName": "View Rankings",
+      "url": "https://www.enr.com/toplists/2025-top-500-design-firms-preview",
+      "rowCount": 520,
+      "paginatedPages": 6
+    },
+    {
+      "filename": "2025-Top-400-Contractors-1-preview.json",
+      "listName": "View Rankings",
+      "url": "https://www.enr.com/toplists/2025-Top-400-Contractors-1-preview",
+      "rowCount": 3,
+      "paginatedPages": 1
+    },
+    {
+      "filename": "2025-Top-100-Green-Buildings-Design-Firms-Preview.json",
+      "listName": "View Rankings",
+      "url": "https://www.enr.com/toplists/2025-Top-100-Green-Buildings-Design-Firms-Preview",
+      "rowCount": 5,
+      "paginatedPages": 1
+    },
+    {
+      "filename": "2025-Top-100-Green-Building-Contractors-Preview.json",
+      "listName": "View Rankings",
+      "url": "https://www.enr.com/toplists/2025-Top-100-Green-Building-Contractors-Preview",
+      "rowCount": 5,
+      "paginatedPages": 1
+    },
+    {
+      "filename": "2025-Top-225-International-Design-Firms-Preview.json",
+      "listName": "View Rankings",
+      "url": "https://www.enr.com/toplists/2025-Top-225-International-Design-Firms-Preview",
+      "rowCount": 230,
+      "paginatedPages": 4
+    },
+    {
+      "filename": "2024-Top-150-Global-Design-Firms-Preview.json",
+      "listName": "View Rankings",
+      "url": "https://www.enr.com/toplists/2024-Top-150-Global-Design-Firms-Preview",
+      "rowCount": 170,
+      "paginatedPages": 3
+    },
+    {
+      "filename": "2025-Top-250-International-Contractors-Preview.json",
+      "listName": "View Rankings",
+      "url": "https://www.enr.com/toplists/2025-Top-250-International-Contractors-Preview",
+      "rowCount": 255,
+      "paginatedPages": 4
+    },
+    {
+      "filename": "2024-Top-250-Global-Contractors-Preview.json",
+      "listName": "View Rankings",
+      "url": "https://www.enr.com/toplists/2024-Top-250-Global-Contractors-Preview",
+      "rowCount": 270,
+      "paginatedPages": 4
+    },
+    {
+      "filename": "2025-Top-600-Specialty-Contractors-Preview.json",
+      "listName": "View Rankings",
+      "url": "https://www.enr.com/toplists/2025-Top-600-Specialty-Contractors-Preview",
+      "rowCount": 610,
+      "paginatedPages": 7
+    },
+    {
+      "filename": "2025-Top-100-Design-Build-Firms-preview.json",
+      "listName": "View Rankings",
+      "url": "https://www.enr.com/toplists/2025-Top-100-Design-Build-Firms-preview",
+      "rowCount": 5,
+      "paginatedPages": 1
+    },
+    {
+      "filename": "2025-Top-100-Professional-Services-Firms-Preview.json",
+      "listName": "View Rankings",
+      "url": "https://www.enr.com/toplists/2025-Top-100-Professional-Services-Firms-Preview",
+      "rowCount": 5,
+      "paginatedPages": 1
+    },
+    {
+      "filename": "2025-Top-100-CM-at-Risk-Firms-Preview.json",
+      "listName": "View Rankings",
+      "url": "https://www.enr.com/toplists/2025-Top-100-CM-at-Risk-Firms-Preview",
+      "rowCount": 5,
+      "paginatedPages": 1
+    },
+    {
+      "filename": "2025-Top-50-Program-Management-Firms-Preview.json",
+      "listName": "View Rankings",
+      "url": "https://www.enr.com/toplists/2025-Top-50-Program-Management-Firms-Preview",
+      "rowCount": 5,
+      "paginatedPages": 1
+    }
+  ]
+}

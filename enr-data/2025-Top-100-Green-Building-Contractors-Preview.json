@@ -1,0 +1,45 @@
+{
+  "crawlDate": "2025-12-15T20:47:05.746Z",
+  "listName": "View Rankings",
+  "url": "https://www.enr.com/toplists/2025-Top-100-Green-Building-Contractors-Preview",
+  "totalRows": 5,
+  "paginatedPages": 1,
+  "headers": [
+    "RANK 2025",
+    "RANK 2024",
+    "Company Name",
+    "Location"
+  ],
+  "data": [
+    {
+      "Company Name": "Turner Construction Co.",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "1",
+      "RANK 2024": "1"
+    },
+    {
+      "Company Name": "AECOM",
+      "Location": "Dallas, Texas",
+      "RANK 2025": "2",
+      "RANK 2024": "2"
+    },
+    {
+      "Company Name": "Clayco",
+      "Location": "Chicago, Ill.",
+      "RANK 2025": "3",
+      "RANK 2024": "5"
+    },
+    {
+      "Company Name": "DPR Construction",
+      "Location": "Redwood City, Calif.",
+      "RANK 2025": "4",
+      "RANK 2024": "4"
+    },
+    {
+      "Company Name": "Swinerton Inc.",
+      "Location": "Concord, Calif.",
+      "RANK 2025": "5",
+      "RANK 2024": "10"
+    }
+  ]
+}

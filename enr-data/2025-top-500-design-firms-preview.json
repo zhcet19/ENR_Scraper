@@ -1,0 +1,3115 @@
+{
+  "crawlDate": "2025-12-15T20:47:05.745Z",
+  "listName": "View Rankings",
+  "url": "https://www.enr.com/toplists/2025-top-500-design-firms-preview",
+  "totalRows": 520,
+  "paginatedPages": 6,
+  "headers": [
+    "RANK 2025",
+    "RANK 2024",
+    "Company Name",
+    "Location"
+  ],
+  "data": [
+    {
+      "Company Name": "AECOM",
+      "Location": "Dallas, Texas",
+      "RANK 2024": "1"
+    },
+    {
+      "Company Name": "Jacobs Solutions Inc.",
+      "Location": "Dallas, Texas",
+      "RANK 2024": "2"
+    },
+    {
+      "Company Name": "Tetra Tech",
+      "Location": "Pasadena, Calif.",
+      "RANK 2024": "3"
+    },
+    {
+      "Company Name": "WSP USA",
+      "Location": "New York, N.Y.",
+      "RANK 2024": "4"
+    },
+    {
+      "Company Name": "Fluor",
+      "Location": "Irving, Texas",
+      "RANK 2024": "5"
+    },
+    {
+      "Company Name": "HDR",
+      "Location": "Omaha, Neb.",
+      "RANK 2024": "6"
+    },
+    {
+      "Company Name": "Burns & McDonnell",
+      "Location": "Kansas City, Mo.",
+      "RANK 2024": "7"
+    },
+    {
+      "Company Name": "Kimley-Horn",
+      "Location": "Raleigh, N.C.",
+      "RANK 2024": "8"
+    },
+    {
+      "Company Name": "Stantec Inc.",
+      "Location": "Irvine, Calif.",
+      "RANK 2024": "9"
+    },
+    {
+      "Company Name": "Arcadis North America",
+      "Location": "Highlands Ranch, Colo.",
+      "RANK 2024": "10"
+    },
+    {
+      "Company Name": "HNTB Cos.",
+      "Location": "Kansas City, Mo.",
+      "RANK 2024": "11"
+    },
+    {
+      "Company Name": "Gensler",
+      "Location": "Los Angeles, Calif.",
+      "RANK 2024": "12"
+    },
+    {
+      "Company Name": "Black & Veatch",
+      "Location": "Overland Park, Kan.",
+      "RANK 2024": "13"
+    },
+    {
+      "Company Name": "Bechtel",
+      "Location": "Reston, Va.",
+      "RANK 2024": "14"
+    },
+    {
+      "Company Name": "Kiewit Corp.",
+      "Location": "Omaha, Neb.",
+      "RANK 2024": "15"
+    },
+    {
+      "Company Name": "Parsons Corp.",
+      "Location": "Chantilly, Va.",
+      "RANK 2024": "16"
+    },
+    {
+      "Company Name": "TRC Cos. Inc.",
+      "Location": "Windsor, Conn.",
+      "RANK 2024": "17"
+    },
+    {
+      "Company Name": "Gannett Fleming TranSystems (GFT)",
+      "Location": "Mechanicsburg, Pa.",
+      "RANK 2024": "18"
+    },
+    {
+      "Company Name": "Terracon Consultants Inc.",
+      "Location": "Olathe, Kan.",
+      "RANK 2024": "19"
+    },
+    {
+      "Company Name": "AtkinsRéalis",
+      "Location": "Tampa, Fla.",
+      "RANK 2024": "20"
+    },
+    {
+      "Company Name": "AECOM",
+      "Location": "Dallas, Texas",
+      "RANK 2025": "1",
+      "RANK 2024": "2"
+    },
+    {
+      "Company Name": "Jacobs Solutions Inc.",
+      "Location": "Dallas, Texas",
+      "RANK 2025": "2",
+      "RANK 2024": "1"
+    },
+    {
+      "Company Name": "Tetra Tech",
+      "Location": "Pasadena, Calif.",
+      "RANK 2025": "3",
+      "RANK 2024": "3"
+    },
+    {
+      "Company Name": "WSP USA",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "4",
+      "RANK 2024": "5"
+    },
+    {
+      "Company Name": "Fluor",
+      "Location": "Irving, Texas",
+      "RANK 2025": "5",
+      "RANK 2024": "4"
+    },
+    {
+      "Company Name": "HDR",
+      "Location": "Omaha, Neb.",
+      "RANK 2025": "6",
+      "RANK 2024": "6"
+    },
+    {
+      "Company Name": "Burns & McDonnell",
+      "Location": "Kansas City, Mo.",
+      "RANK 2025": "7",
+      "RANK 2024": "7"
+    },
+    {
+      "Company Name": "Kimley-Horn",
+      "Location": "Raleigh, N.C.",
+      "RANK 2025": "8",
+      "RANK 2024": "10"
+    },
+    {
+      "Company Name": "Stantec Inc.",
+      "Location": "Irvine, Calif.",
+      "RANK 2025": "9",
+      "RANK 2024": "8"
+    },
+    {
+      "Company Name": "Arcadis North America",
+      "Location": "Highlands Ranch, Colo.",
+      "RANK 2025": "10",
+      "RANK 2024": "11"
+    },
+    {
+      "Company Name": "HNTB Cos.",
+      "Location": "Kansas City, Mo.",
+      "RANK 2025": "11",
+      "RANK 2024": "12"
+    },
+    {
+      "Company Name": "Gensler",
+      "Location": "Los Angeles, Calif.",
+      "RANK 2025": "12",
+      "RANK 2024": "13"
+    },
+    {
+      "Company Name": "Black & Veatch",
+      "Location": "Overland Park, Kan.",
+      "RANK 2025": "13",
+      "RANK 2024": "14"
+    },
+    {
+      "Company Name": "Bechtel",
+      "Location": "Reston, Va.",
+      "RANK 2025": "14",
+      "RANK 2024": "9"
+    },
+    {
+      "Company Name": "Kiewit Corp.",
+      "Location": "Omaha, Neb.",
+      "RANK 2025": "15",
+      "RANK 2024": "17"
+    },
+    {
+      "Company Name": "Parsons Corp.",
+      "Location": "Chantilly, Va.",
+      "RANK 2025": "16",
+      "RANK 2024": "15"
+    },
+    {
+      "Company Name": "TRC Cos. Inc.",
+      "Location": "Windsor, Conn.",
+      "RANK 2025": "17",
+      "RANK 2024": "16"
+    },
+    {
+      "Company Name": "Gannett Fleming TranSystems (GFT)",
+      "Location": "Mechanicsburg, Pa.",
+      "RANK 2025": "18",
+      "RANK 2024": "29"
+    },
+    {
+      "Company Name": "Terracon Consultants Inc.",
+      "Location": "Olathe, Kan.",
+      "RANK 2025": "19",
+      "RANK 2024": "18"
+    },
+    {
+      "Company Name": "AtkinsRéalis",
+      "Location": "Tampa, Fla.",
+      "RANK 2025": "20",
+      "RANK 2024": "20"
+    },
+    {
+      "Company Name": "Leidos",
+      "Location": "Reston, Va.",
+      "RANK 2025": "21",
+      "RANK 2024": "19"
+    },
+    {
+      "Company Name": "CDM Smith",
+      "Location": "Boston, Mass.",
+      "RANK 2025": "22",
+      "RANK 2024": "21"
+    },
+    {
+      "Company Name": "Sargent & Lundy",
+      "Location": "Chicago, Ill.",
+      "RANK 2025": "23",
+      "RANK 2024": "25"
+    },
+    {
+      "Company Name": "Intertek-PSI",
+      "Location": "Arlington Heights, Ill.",
+      "RANK 2025": "24",
+      "RANK 2024": "22"
+    },
+    {
+      "Company Name": "EXP",
+      "Location": "Chicago, Ill.",
+      "RANK 2025": "25",
+      "RANK 2024": "23"
+    },
+    {
+      "Company Name": "NV5 Global Inc.",
+      "Location": "Hollywood, Fla.",
+      "RANK 2025": "26",
+      "RANK 2024": "24"
+    },
+    {
+      "Company Name": "Michael Baker International",
+      "Location": "Pittsburgh, Pa.",
+      "RANK 2025": "27",
+      "RANK 2024": "28"
+    },
+    {
+      "Company Name": "GHD",
+      "Location": "Niagara Falls, N.Y.",
+      "RANK 2025": "28",
+      "RANK 2024": "27"
+    },
+    {
+      "Company Name": "Amentum",
+      "Location": "Chantilly, Va.",
+      "RANK 2025": "29",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "TYLin",
+      "Location": "San Francisco, Calif.",
+      "RANK 2025": "30",
+      "RANK 2024": "30"
+    },
+    {
+      "Company Name": "Salas O’Brien",
+      "Location": "Irvine, Calif.",
+      "RANK 2025": "31",
+      "RANK 2024": "39"
+    },
+    {
+      "Company Name": "Colliers Engineering & Design",
+      "Location": "Holmdel, N.J.",
+      "RANK 2025": "32",
+      "RANK 2024": "50"
+    },
+    {
+      "Company Name": "Mott MacDonald",
+      "Location": "Iselin, N.J.",
+      "RANK 2025": "33",
+      "RANK 2024": "33"
+    },
+    {
+      "Company Name": "STV",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "34",
+      "RANK 2024": "35"
+    },
+    {
+      "Company Name": "Perkins&Will",
+      "Location": "Chicago, Ill.",
+      "RANK 2025": "35",
+      "RANK 2024": "32"
+    },
+    {
+      "Company Name": "Geosyntec Consultants",
+      "Location": "Boca Raton, Fla.",
+      "RANK 2025": "36",
+      "RANK 2024": "37"
+    },
+    {
+      "Company Name": "Dewberry",
+      "Location": "Fairfax, Va.",
+      "RANK 2025": "37",
+      "RANK 2024": "31"
+    },
+    {
+      "Company Name": "HKS",
+      "Location": "Dallas, Texas",
+      "RANK 2025": "38",
+      "RANK 2024": "38"
+    },
+    {
+      "Company Name": "Woolpert",
+      "Location": "Dayton, Ohio",
+      "RANK 2025": "39",
+      "RANK 2024": "47"
+    },
+    {
+      "Company Name": "UES",
+      "Location": "Orlando, Fla.",
+      "RANK 2025": "40",
+      "RANK 2024": "34"
+    },
+    {
+      "Company Name": "Brown and Caldwell",
+      "Location": "Walnut Creek, Calif.",
+      "RANK 2025": "41",
+      "RANK 2024": "40"
+    },
+    {
+      "Company Name": "HOK",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "42",
+      "RANK 2024": "44"
+    },
+    {
+      "Company Name": "Arup US Inc.",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "43",
+      "RANK 2024": "36"
+    },
+    {
+      "Company Name": "Hazen and Sawyer",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "44",
+      "RANK 2024": "53"
+    },
+    {
+      "Company Name": "Willdan",
+      "Location": "Anaheim, Calif.",
+      "RANK 2025": "45",
+      "RANK 2024": "48"
+    },
+    {
+      "Company Name": "SCS Engineers",
+      "Location": "Long Beach, Calif.",
+      "RANK 2025": "46",
+      "RANK 2024": "54"
+    },
+    {
+      "Company Name": "Kleinfelder Inc.",
+      "Location": "San Diego, Calif.",
+      "RANK 2025": "47",
+      "RANK 2024": "45"
+    },
+    {
+      "Company Name": "IMEG",
+      "Location": "Rock Island, Ill.",
+      "RANK 2025": "48",
+      "RANK 2024": "52"
+    },
+    {
+      "Company Name": "Atlas Technical Consultants",
+      "Location": "Denver, Colo.",
+      "RANK 2025": "49",
+      "RANK 2024": "49"
+    },
+    {
+      "Company Name": "Johnson Mirmiran & Thompson Inc. (JMT)",
+      "Location": "Hunt Valley, Md.",
+      "RANK 2025": "50",
+      "RANK 2024": "61"
+    },
+    {
+      "Company Name": "Carollo Engineers",
+      "Location": "Walnut Creek, Calif.",
+      "RANK 2025": "51",
+      "RANK 2024": "60"
+    },
+    {
+      "Company Name": "LJA Engineering Inc.",
+      "Location": "Houston, Texas",
+      "RANK 2025": "52",
+      "RANK 2024": "67"
+    },
+    {
+      "Company Name": "KCI Holdings Inc.",
+      "Location": "Sparks, Md.",
+      "RANK 2025": "53",
+      "RANK 2024": "56"
+    },
+    {
+      "Company Name": "Corgan",
+      "Location": "Dallas, Texas",
+      "RANK 2025": "54",
+      "RANK 2024": "63"
+    },
+    {
+      "Company Name": "Langan",
+      "Location": "Parsippany, N.J.",
+      "RANK 2025": "55",
+      "RANK 2024": "55"
+    },
+    {
+      "Company Name": "Page",
+      "Location": "Washington, D.C.",
+      "RANK 2025": "56",
+      "RANK 2024": "41"
+    },
+    {
+      "Company Name": "Populous",
+      "Location": "Kansas City, Mo.",
+      "RANK 2025": "57",
+      "RANK 2024": "68"
+    },
+    {
+      "Company Name": "RS&H Inc.",
+      "Location": "Jacksonville, Fla.",
+      "RANK 2025": "58",
+      "RANK 2024": "66"
+    },
+    {
+      "Company Name": "Ramboll Group",
+      "Location": "Arlington, Va.",
+      "RANK 2025": "59",
+      "RANK 2024": "51"
+    },
+    {
+      "Company Name": "ENTRUST Solutions Group",
+      "Location": "Warrenville, Ill.",
+      "RANK 2025": "60",
+      "RANK 2024": "42"
+    },
+    {
+      "Company Name": "VHB",
+      "Location": "Watertown, Mass.",
+      "RANK 2025": "61",
+      "RANK 2024": "62"
+    },
+    {
+      "Company Name": "Actalent Services",
+      "Location": "Hanover, Md.",
+      "RANK 2025": "62",
+      "RANK 2024": "57"
+    },
+    {
+      "Company Name": "CHA Consulting Inc.",
+      "Location": "Albany, N.Y.",
+      "RANK 2025": "63",
+      "RANK 2024": "65"
+    },
+    {
+      "Company Name": "Audubon Cos.",
+      "Location": "Houston, Texas",
+      "RANK 2025": "64",
+      "RANK 2024": "90"
+    },
+    {
+      "Company Name": "Hargrove Engineers & Constructors",
+      "Location": "Mobile, Ala.",
+      "RANK 2025": "65",
+      "RANK 2024": "59"
+    },
+    {
+      "Company Name": "Engineering Consulting Services Ltd.",
+      "Location": "Chantilly, Va.",
+      "RANK 2025": "66",
+      "RANK 2024": "64"
+    },
+    {
+      "Company Name": "DLR Group",
+      "Location": "Seattle, Wash.",
+      "RANK 2025": "67",
+      "RANK 2024": "69"
+    },
+    {
+      "Company Name": "SmithGroup",
+      "Location": "Detroit, Mich.",
+      "RANK 2025": "68",
+      "RANK 2024": "74"
+    },
+    {
+      "Company Name": "Pape-Dawson",
+      "Location": "San Antonio, Texas",
+      "RANK 2025": "69",
+      "RANK 2024": "93"
+    },
+    {
+      "Company Name": "Atwell LLC",
+      "Location": "Southfield, Mich.",
+      "RANK 2025": "70",
+      "RANK 2024": "71"
+    },
+    {
+      "Company Name": "CONSOR",
+      "Location": "Miami, Fla.",
+      "RANK 2025": "71",
+      "RANK 2024": "133"
+    },
+    {
+      "Company Name": "Bowman Consulting Group Ltd. (Bowman)",
+      "Location": "Reston, Va.",
+      "RANK 2025": "72",
+      "RANK 2024": "78"
+    },
+    {
+      "Company Name": "Thornton Tomasetti",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "73",
+      "RANK 2024": "73"
+    },
+    {
+      "Company Name": "Olsson Inc.",
+      "Location": "Lincoln, Neb.",
+      "RANK 2025": "74",
+      "RANK 2024": "76"
+    },
+    {
+      "Company Name": "Ardurra Group",
+      "Location": "Miami, Fla.",
+      "RANK 2025": "75",
+      "RANK 2024": "84"
+    },
+    {
+      "Company Name": "Rummel Klepper and Kahl LLP",
+      "Location": "Baltimore, Md.",
+      "RANK 2025": "76",
+      "RANK 2024": "75"
+    },
+    {
+      "Company Name": "Westwood Professional Services",
+      "Location": "Plano, Texas",
+      "RANK 2025": "77",
+      "RANK 2024": "83"
+    },
+    {
+      "Company Name": "Jensen Hughes",
+      "Location": "Columbia, Md.",
+      "RANK 2025": "78",
+      "RANK 2024": "85"
+    },
+    {
+      "Company Name": "CannonDesign",
+      "Location": "New York City, N.Y.",
+      "RANK 2025": "79",
+      "RANK 2024": "72"
+    },
+    {
+      "Company Name": "Greenman-Pedersen Inc.",
+      "Location": "Babylon, N.Y.",
+      "RANK 2025": "80",
+      "RANK 2024": "70"
+    },
+    {
+      "Company Name": "Verdantas",
+      "Location": "Tampa, Fla.",
+      "RANK 2025": "81",
+      "RANK 2024": "113"
+    },
+    {
+      "Company Name": "Mead & Hunt Inc.",
+      "Location": "Middleton, Wis.",
+      "RANK 2025": "82",
+      "RANK 2024": "81"
+    },
+    {
+      "Company Name": "GEI Consultants Inc.",
+      "Location": "Woburn, Mass.",
+      "RANK 2025": "83",
+      "RANK 2024": "80"
+    },
+    {
+      "Company Name": "Woodard & Curran",
+      "Location": "Portland, Maine",
+      "RANK 2025": "84",
+      "RANK 2024": "77"
+    },
+    {
+      "Company Name": "S&B",
+      "Location": "Houston, Texas",
+      "RANK 2025": "85",
+      "RANK 2024": "43"
+    },
+    {
+      "Company Name": "Gresham Smith",
+      "Location": "Nashville, Tenn.",
+      "RANK 2025": "86",
+      "RANK 2024": "79"
+    },
+    {
+      "Company Name": "SSOE Group",
+      "Location": "Toledo, Ohio",
+      "RANK 2025": "87",
+      "RANK 2024": "91"
+    },
+    {
+      "Company Name": "Garver",
+      "Location": "North Little Rock, Ark.",
+      "RANK 2025": "88",
+      "RANK 2024": "98"
+    },
+    {
+      "Company Name": "SAM LLC",
+      "Location": "Austin, Texas",
+      "RANK 2025": "89",
+      "RANK 2024": "86"
+    },
+    {
+      "Company Name": "Volkert Inc.",
+      "Location": "Mobile, Ala.",
+      "RANK 2025": "90",
+      "RANK 2024": "106"
+    },
+    {
+      "Company Name": "Halff",
+      "Location": "Richardson, Texas",
+      "RANK 2025": "91",
+      "RANK 2024": "87"
+    },
+    {
+      "Company Name": "Skidmore Owings & Merrill",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "92",
+      "RANK 2024": "82"
+    },
+    {
+      "Company Name": "Moffatt & Nichol",
+      "Location": "Long Beach, Calif.",
+      "RANK 2025": "93",
+      "RANK 2024": "92"
+    },
+    {
+      "Company Name": "Civil & Environmental Consultants Inc.",
+      "Location": "Moon Township, Pa.",
+      "RANK 2025": "94",
+      "RANK 2024": "97"
+    },
+    {
+      "Company Name": "Certerra (formerly RMA Companies)",
+      "Location": "Las Vegas, Nev.",
+      "RANK 2025": "95",
+      "RANK 2024": "112"
+    },
+    {
+      "Company Name": "PBK",
+      "Location": "Houston, Texas",
+      "RANK 2025": "96",
+      "RANK 2024": "95"
+    },
+    {
+      "Company Name": "Freese and Nichols Inc.",
+      "Location": "Fort Worth, Texas",
+      "RANK 2025": "97",
+      "RANK 2024": "100"
+    },
+    {
+      "Company Name": "H.W. Lochner Inc.",
+      "Location": "Chicago, Ill.",
+      "RANK 2025": "98",
+      "RANK 2024": "103"
+    },
+    {
+      "Company Name": "IPS-Integrated Project Services LLC",
+      "Location": "Blue Bell, Pa.",
+      "RANK 2025": "99",
+      "RANK 2024": "88"
+    },
+    {
+      "Company Name": "Ulteig Engineers",
+      "Location": "Fargo, N.D.",
+      "RANK 2025": "100",
+      "RANK 2024": "116"
+    },
+    {
+      "Company Name": "Benesch",
+      "Location": "Chicago, Ill.",
+      "RANK 2025": "101",
+      "RANK 2024": "104"
+    },
+    {
+      "Company Name": "KPFF Consulting Engineers",
+      "Location": "Seattle, Wash.",
+      "RANK 2025": "102",
+      "RANK 2024": "105"
+    },
+    {
+      "Company Name": "CMTA Inc.",
+      "Location": "Prospect, Ky.",
+      "RANK 2025": "103",
+      "RANK 2024": "136"
+    },
+    {
+      "Company Name": "Enercon Services Inc.",
+      "Location": "Kennesaw, Ga.",
+      "RANK 2025": "104",
+      "RANK 2024": "89"
+    },
+    {
+      "Company Name": "SWCA Environmental Consultants",
+      "Location": "Phoenix, Ariz.",
+      "RANK 2025": "105",
+      "RANK 2024": "107"
+    },
+    {
+      "Company Name": "David Evans Enterprises Inc.",
+      "Location": "Portland, Ore.",
+      "RANK 2025": "106",
+      "RANK 2024": "109"
+    },
+    {
+      "Company Name": "Merrick & Co.",
+      "Location": "Greenwood Village, Colo.",
+      "RANK 2025": "107",
+      "RANK 2024": "99"
+    },
+    {
+      "Company Name": "MOREgroup",
+      "Location": "Fort Worth, Texas",
+      "RANK 2025": "108",
+      "RANK 2024": "102"
+    },
+    {
+      "Company Name": "WSB",
+      "Location": "Minneapolis, Minn.",
+      "RANK 2025": "109",
+      "RANK 2024": "134"
+    },
+    {
+      "Company Name": "Foth & Van Dyke LLC",
+      "Location": "De Pere, Wis.",
+      "RANK 2025": "110",
+      "RANK 2024": "120"
+    },
+    {
+      "Company Name": "BW Design Group",
+      "Location": "St. Louis, Mo.",
+      "RANK 2025": "111",
+      "RANK 2024": "101"
+    },
+    {
+      "Company Name": "Perkins Eastman",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "112",
+      "RANK 2024": "94"
+    },
+    {
+      "Company Name": "Partner Engineering and Science Inc.",
+      "Location": "Torrance, Calif.",
+      "RANK 2025": "113",
+      "RANK 2024": "124"
+    },
+    {
+      "Company Name": "Pennoni",
+      "Location": "Philadelphia, Pa.",
+      "RANK 2025": "114",
+      "RANK 2024": "108"
+    },
+    {
+      "Company Name": "Bolton & Menk Inc.",
+      "Location": "Mankato, Minn.",
+      "RANK 2025": "115",
+      "RANK 2024": "132"
+    },
+    {
+      "Company Name": "DCCM",
+      "Location": "Houston, Texas",
+      "RANK 2025": "116",
+      "RANK 2024": "130"
+    },
+    {
+      "Company Name": "Barr Engineering Co.",
+      "Location": "Minneapolis, Minn.",
+      "RANK 2025": "117",
+      "RANK 2024": "118"
+    },
+    {
+      "Company Name": "Haley & Aldrich Inc.",
+      "Location": "Burlington, Mass.",
+      "RANK 2025": "118",
+      "RANK 2024": "119"
+    },
+    {
+      "Company Name": "Weston & Sampson",
+      "Location": "Reading, Mass.",
+      "RANK 2025": "119",
+      "RANK 2024": "140"
+    },
+    {
+      "Company Name": "Stanley Consultants",
+      "Location": "Muscatine, Iowa",
+      "RANK 2025": "120",
+      "RANK 2024": "115"
+    },
+    {
+      "Company Name": "Whitman Requardt & Associates LLP",
+      "Location": "Baltimore, Md.",
+      "RANK 2025": "121",
+      "RANK 2024": "125"
+    },
+    {
+      "Company Name": "Affiliated Engineers Inc.",
+      "Location": "Madison, Wis.",
+      "RANK 2025": "122",
+      "RANK 2024": "128"
+    },
+    {
+      "Company Name": "LaBella Associates DPC",
+      "Location": "Rochester, N.Y.",
+      "RANK 2025": "123",
+      "RANK 2024": "127"
+    },
+    {
+      "Company Name": "Electrical Consultants Inc.",
+      "Location": "Billings, Mont.",
+      "RANK 2025": "124",
+      "RANK 2024": "145"
+    },
+    {
+      "Company Name": "Timmons Group",
+      "Location": "Richmond, Va.",
+      "RANK 2025": "125",
+      "RANK 2024": "135"
+    },
+    {
+      "Company Name": "Tower Engineering Professionals",
+      "Location": "Raleigh, N.C.",
+      "RANK 2025": "126",
+      "RANK 2024": "147"
+    },
+    {
+      "Company Name": "Wiss Janney Elstner Associates",
+      "Location": "Northbrook, Ill.",
+      "RANK 2025": "127",
+      "RANK 2024": "122"
+    },
+    {
+      "Company Name": "HGA",
+      "Location": "Minneapolis, Minn.",
+      "RANK 2025": "128",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Thompson Holdings",
+      "Location": "Mobile, Ala.",
+      "RANK 2025": "129",
+      "RANK 2024": "200"
+    },
+    {
+      "Company Name": "Hatch Associates Consultants Inc.",
+      "Location": "Pittsburgh, Pa.",
+      "RANK 2025": "130",
+      "RANK 2024": "96"
+    },
+    {
+      "Company Name": "Exyte Americas Holding Inc.",
+      "Location": "Richardson, Texas",
+      "RANK 2025": "131",
+      "RANK 2024": "189"
+    },
+    {
+      "Company Name": "Horrocks LLC",
+      "Location": "Pleasant Grove, Utah",
+      "RANK 2025": "132",
+      "RANK 2024": "138"
+    },
+    {
+      "Company Name": "ZGF",
+      "Location": "Portland, Ore.",
+      "RANK 2025": "133",
+      "RANK 2024": "117"
+    },
+    {
+      "Company Name": "Simpson Gumpertz & Heger",
+      "Location": "Waltham, Mass.",
+      "RANK 2025": "134",
+      "RANK 2024": "139"
+    },
+    {
+      "Company Name": "Braun Intertec",
+      "Location": "Bloomington, Minn.",
+      "RANK 2025": "135",
+      "RANK 2024": "126"
+    },
+    {
+      "Company Name": "CRB",
+      "Location": "Kansas City, Mo.",
+      "RANK 2025": "136",
+      "RANK 2024": "111"
+    },
+    {
+      "Company Name": "American Structurepoint",
+      "Location": "Indianapolis, Ind.",
+      "RANK 2025": "137",
+      "RANK 2024": "156"
+    },
+    {
+      "Company Name": "Parametrix",
+      "Location": "Seattle, Wash.",
+      "RANK 2025": "138",
+      "RANK 2024": "143"
+    },
+    {
+      "Company Name": "EGIS USA",
+      "Location": "Indianapolis, Ind.",
+      "RANK 2025": "139",
+      "RANK 2024": "146"
+    },
+    {
+      "Company Name": "GZA",
+      "Location": "Norwood, Mass.",
+      "RANK 2025": "140",
+      "RANK 2024": "142"
+    },
+    {
+      "Company Name": "Kohn Pedersen Fox (KPF)",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "141",
+      "RANK 2024": "121"
+    },
+    {
+      "Company Name": "NBBJ",
+      "Location": "Seattle, Wash.",
+      "RANK 2025": "142",
+      "RANK 2024": "129"
+    },
+    {
+      "Company Name": "DLZ Corp.",
+      "Location": "Columbus, Ohio",
+      "RANK 2025": "143",
+      "RANK 2024": "148"
+    },
+    {
+      "Company Name": "Mesa Associates Inc.",
+      "Location": "Madison, Ala.",
+      "RANK 2025": "144",
+      "RANK 2024": "149"
+    },
+    {
+      "Company Name": "GAI Consultants Inc.",
+      "Location": "Homestead, Pa.",
+      "RANK 2025": "145",
+      "RANK 2024": "166"
+    },
+    {
+      "Company Name": "Ghafari Associates LLC",
+      "Location": "Dearborn, Mich.",
+      "RANK 2025": "146",
+      "RANK 2024": "114"
+    },
+    {
+      "Company Name": "Walter P Moore",
+      "Location": "Houston, Texas",
+      "RANK 2025": "147",
+      "RANK 2024": "152"
+    },
+    {
+      "Company Name": "Pond and Co.",
+      "Location": "Peachtree Corners, Ga.",
+      "RANK 2025": "148",
+      "RANK 2024": "154"
+    },
+    {
+      "Company Name": "Goodwyn Mills Cawood",
+      "Location": "Montgomery, Ala.",
+      "RANK 2025": "149",
+      "RANK 2024": "151"
+    },
+    {
+      "Company Name": "S&ME",
+      "Location": "Raleigh, N.C.",
+      "RANK 2025": "150",
+      "RANK 2024": "137"
+    },
+    {
+      "Company Name": "Coffman Engineers Inc.",
+      "Location": "Seattle, Wash.",
+      "RANK 2025": "151",
+      "RANK 2024": "157"
+    },
+    {
+      "Company Name": "PGAL",
+      "Location": "Houston, Texas",
+      "RANK 2025": "152",
+      "RANK 2024": "165"
+    },
+    {
+      "Company Name": "GPD Group",
+      "Location": "Akron, Ohio",
+      "RANK 2025": "153",
+      "RANK 2024": "158"
+    },
+    {
+      "Company Name": "NORR",
+      "Location": "Chicago, Ill.",
+      "RANK 2025": "154",
+      "RANK 2024": "141"
+    },
+    {
+      "Company Name": "PSOMAS",
+      "Location": "Los Angeles, Calif.",
+      "RANK 2025": "155",
+      "RANK 2024": "150"
+    },
+    {
+      "Company Name": "Ware Malcomb",
+      "Location": "Irvine, Calif.",
+      "RANK 2025": "156",
+      "RANK 2024": "131"
+    },
+    {
+      "Company Name": "Hardesty & Hanover LLC",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "157",
+      "RANK 2024": "144"
+    },
+    {
+      "Company Name": "VLK",
+      "Location": "Fort Worth, Texas",
+      "RANK 2025": "158",
+      "RANK 2024": "193"
+    },
+    {
+      "Company Name": "Quiddity Engineering",
+      "Location": "Bellaire, Texas",
+      "RANK 2025": "159",
+      "RANK 2024": "160"
+    },
+    {
+      "Company Name": "Barge Design Solutions",
+      "Location": "Nashville, Tenn.",
+      "RANK 2025": "160",
+      "RANK 2024": "167"
+    },
+    {
+      "Company Name": "LS3P Associates LTD.",
+      "Location": "Charleston, S.C.",
+      "RANK 2025": "161",
+      "RANK 2024": "176"
+    },
+    {
+      "Company Name": "BGE Inc.",
+      "Location": "Houston, Texas",
+      "RANK 2025": "162",
+      "RANK 2024": "110"
+    },
+    {
+      "Company Name": "Syska Hennessy Group",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "163",
+      "RANK 2024": "170"
+    },
+    {
+      "Company Name": "Raba Kistner Inc.",
+      "Location": "San Antonio, Texas",
+      "RANK 2025": "164",
+      "RANK 2024": "169"
+    },
+    {
+      "Company Name": "Henderson Cos.",
+      "Location": "Lenexa, Kan.",
+      "RANK 2025": "165",
+      "RANK 2024": "153"
+    },
+    {
+      "Company Name": "Infrastructure Consulting & Engineering LLC",
+      "Location": "West Columbia, S.C.",
+      "RANK 2025": "166",
+      "RANK 2024": "205"
+    },
+    {
+      "Company Name": "McKim & Creed",
+      "Location": "Raleigh, N.C.",
+      "RANK 2025": "167",
+      "RANK 2024": "155"
+    },
+    {
+      "Company Name": "HR Green Inc.",
+      "Location": "Cedar Rapids, Iowa",
+      "RANK 2025": "168",
+      "RANK 2024": "173"
+    },
+    {
+      "Company Name": "Wade Trim",
+      "Location": "Detroit, Mich.",
+      "RANK 2025": "169",
+      "RANK 2024": "182"
+    },
+    {
+      "Company Name": "Vanderweil Engineers",
+      "Location": "Boston, Mass.",
+      "RANK 2025": "170",
+      "RANK 2024": "174"
+    },
+    {
+      "Company Name": "Strand Associates Inc.",
+      "Location": "Madison, Wis.",
+      "RANK 2025": "171",
+      "RANK 2024": "177"
+    },
+    {
+      "Company Name": "EA Engineering Science and Tech.",
+      "Location": "Hunt Valley, Md.",
+      "RANK 2025": "172",
+      "RANK 2024": "163"
+    },
+    {
+      "Company Name": "Huitt-Zollars Inc.",
+      "Location": "Dallas, Texas",
+      "RANK 2025": "173",
+      "RANK 2024": "185"
+    },
+    {
+      "Company Name": "Burgess & Niple Inc.",
+      "Location": "Columbus, Ohio",
+      "RANK 2025": "174",
+      "RANK 2024": "181"
+    },
+    {
+      "Company Name": "Wilson & Co. Inc. Engineers & Architects",
+      "Location": "Albuquerque, N.M.",
+      "RANK 2025": "175",
+      "RANK 2024": "180"
+    },
+    {
+      "Company Name": "Cobb Fendley & Associates Inc.",
+      "Location": "Houston, Texas",
+      "RANK 2025": "176",
+      "RANK 2024": "184"
+    },
+    {
+      "Company Name": "Schnabel Engineering",
+      "Location": "Glen Allen, Va.",
+      "RANK 2025": "177",
+      "RANK 2024": "203"
+    },
+    {
+      "Company Name": "LPA Inc.",
+      "Location": "Irvine, Calif.",
+      "RANK 2025": "178",
+      "RANK 2024": "197"
+    },
+    {
+      "Company Name": "Versar Global Solutions",
+      "Location": "Washington, D.C.",
+      "RANK 2025": "179",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Neel-Schaffer Inc.",
+      "Location": "Jackson, Miss.",
+      "RANK 2025": "180",
+      "RANK 2024": "202"
+    },
+    {
+      "Company Name": "DRMP Inc.",
+      "Location": "Orlando, Fla.",
+      "RANK 2025": "181",
+      "RANK 2024": "183"
+    },
+    {
+      "Company Name": "Hanson Professional Services Inc.",
+      "Location": "Springfield, Ill.",
+      "RANK 2025": "182",
+      "RANK 2024": "178"
+    },
+    {
+      "Company Name": "EwingCole",
+      "Location": "Philadelphia, Pa.",
+      "RANK 2025": "183",
+      "RANK 2024": "172"
+    },
+    {
+      "Company Name": "Dennis Group",
+      "Location": "Springfield, Mass.",
+      "RANK 2025": "184",
+      "RANK 2024": "186"
+    },
+    {
+      "Company Name": "Smith Seckman Reid Inc.",
+      "Location": "Nashville, Tenn.",
+      "RANK 2025": "185",
+      "RANK 2024": "198"
+    },
+    {
+      "Company Name": "Core States Group",
+      "Location": "West Chester, Pa.",
+      "RANK 2025": "186",
+      "RANK 2024": "244"
+    },
+    {
+      "Company Name": "BR+A Consulting Engineers",
+      "Location": "Boston, Mass.",
+      "RANK 2025": "187",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Wunderlich-Malec Engineering",
+      "Location": "Eden Prairie, Minn.",
+      "RANK 2025": "188",
+      "RANK 2024": "187"
+    },
+    {
+      "Company Name": "Lamar Johnson Collaborative",
+      "Location": "Chicago, Ill.",
+      "RANK 2025": "189",
+      "RANK 2024": "179"
+    },
+    {
+      "Company Name": "WGI Inc.",
+      "Location": "West Palm Beach, Fla.",
+      "RANK 2025": "190",
+      "RANK 2024": "171"
+    },
+    {
+      "Company Name": "Introba Inc.",
+      "Location": "St. Louis, Mo.",
+      "RANK 2025": "191",
+      "RANK 2024": "164"
+    },
+    {
+      "Company Name": "Ninyo & Moore Geotech. & Enviro. Sciences",
+      "Location": "San Diego, Calif.",
+      "RANK 2025": "192",
+      "RANK 2024": "212"
+    },
+    {
+      "Company Name": "HMC Architects",
+      "Location": "Ontario, Calif.",
+      "RANK 2025": "193",
+      "RANK 2024": "175"
+    },
+    {
+      "Company Name": "Zachry Group",
+      "Location": "San Antonio, Texas",
+      "RANK 2025": "194",
+      "RANK 2024": "162"
+    },
+    {
+      "Company Name": "ESP Associates Inc.",
+      "Location": "Fort Mill, S.C.",
+      "RANK 2025": "195",
+      "RANK 2024": "194"
+    },
+    {
+      "Company Name": "Crawford Murphy & Tilly",
+      "Location": "Springfield, Ill.",
+      "RANK 2025": "196",
+      "RANK 2024": "206"
+    },
+    {
+      "Company Name": "The Burke Group Ltd.",
+      "Location": "Rosemont, Ill.",
+      "RANK 2025": "197",
+      "RANK 2024": "208"
+    },
+    {
+      "Company Name": "Flad Architects",
+      "Location": "Madison, Wis.",
+      "RANK 2025": "198",
+      "RANK 2024": "168"
+    },
+    {
+      "Company Name": "Fishbeck",
+      "Location": "Grand Rapids, Mich.",
+      "RANK 2025": "199",
+      "RANK 2024": "199"
+    },
+    {
+      "Company Name": "Otak Inc.",
+      "Location": "Portland, Ore.",
+      "RANK 2025": "200",
+      "RANK 2024": "207"
+    },
+    {
+      "Company Name": "DOWL LLC",
+      "Location": "Bellevue, Wash.",
+      "RANK 2025": "201",
+      "RANK 2024": "188"
+    },
+    {
+      "Company Name": "Tighe & Bond Inc.",
+      "Location": "Westfield, Mass.",
+      "RANK 2025": "202",
+      "RANK 2024": "224"
+    },
+    {
+      "Company Name": "The HFW Cos.",
+      "Location": "St. Louis, Mo.",
+      "RANK 2025": "203",
+      "RANK 2024": "242"
+    },
+    {
+      "Company Name": "HED",
+      "Location": "Royal Oak, Mich.",
+      "RANK 2025": "204",
+      "RANK 2024": "215"
+    },
+    {
+      "Company Name": "Arquitectonica",
+      "Location": "Miami, Fla.",
+      "RANK 2025": "205",
+      "RANK 2024": "204"
+    },
+    {
+      "Company Name": "BKF Engineers",
+      "Location": "Oakland, Calif.",
+      "RANK 2025": "206",
+      "RANK 2024": "196"
+    },
+    {
+      "Company Name": "OHM Advisors",
+      "Location": "Livonia, Mich.",
+      "RANK 2025": "207",
+      "RANK 2024": "221"
+    },
+    {
+      "Company Name": "COWI North America Inc.",
+      "Location": "Seattle, Wash.",
+      "RANK 2025": "208",
+      "RANK 2024": "214"
+    },
+    {
+      "Company Name": "TLC Engineering Solutions",
+      "Location": "Orlando, Fla.",
+      "RANK 2025": "209",
+      "RANK 2024": "218"
+    },
+    {
+      "Company Name": "Parkhill",
+      "Location": "Lubbock, Texas",
+      "RANK 2025": "210",
+      "RANK 2024": "209"
+    },
+    {
+      "Company Name": "Congruex",
+      "Location": "Boulder, Colo.",
+      "RANK 2025": "211",
+      "RANK 2024": "161"
+    },
+    {
+      "Company Name": "CESO Inc.",
+      "Location": "Miamisburg, Ohio",
+      "RANK 2025": "212",
+      "RANK 2024": "250"
+    },
+    {
+      "Company Name": "HBK Engineering LLC",
+      "Location": "Chicago, Ill.",
+      "RANK 2025": "213",
+      "RANK 2024": "195"
+    },
+    {
+      "Company Name": "Stratus Team LLC",
+      "Location": "Coraopolis, Pa.",
+      "RANK 2025": "214",
+      "RANK 2024": "217"
+    },
+    {
+      "Company Name": "Mark Thomas",
+      "Location": "San Jose, Calif.",
+      "RANK 2025": "215",
+      "RANK 2024": "222"
+    },
+    {
+      "Company Name": "Farnsworth Group Inc.",
+      "Location": "Bloomington, Ill.",
+      "RANK 2025": "216",
+      "RANK 2024": "228"
+    },
+    {
+      "Company Name": "ME Engineers",
+      "Location": "Golden, Colo.",
+      "RANK 2025": "217",
+      "RANK 2024": "268"
+    },
+    {
+      "Company Name": "GeoEngineers Inc.",
+      "Location": "Redmond, Wash.",
+      "RANK 2025": "218",
+      "RANK 2024": "233"
+    },
+    {
+      "Company Name": "True Environmental",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "219",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Orbital Engineering Inc.",
+      "Location": "Pittsburgh, Pa.",
+      "RANK 2025": "220",
+      "RANK 2024": "213"
+    },
+    {
+      "Company Name": "H2M architects + engineers",
+      "Location": "Melville, N.Y.",
+      "RANK 2025": "221",
+      "RANK 2024": "220"
+    },
+    {
+      "Company Name": "KLJ Engineering",
+      "Location": "Bismarck, N.D.",
+      "RANK 2025": "222",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Shive-Hattery",
+      "Location": "Cedar Rapids, Iowa",
+      "RANK 2025": "223",
+      "RANK 2024": "225"
+    },
+    {
+      "Company Name": "Tectonic Eng’g Consult. Geologists & Surveyors",
+      "Location": "Mountainville, N.Y.",
+      "RANK 2025": "224",
+      "RANK 2024": "216"
+    },
+    {
+      "Company Name": "LEO A DALY",
+      "Location": "Omaha, Neb.",
+      "RANK 2025": "225",
+      "RANK 2024": "191"
+    },
+    {
+      "Company Name": "Hord Coplan Macht",
+      "Location": "Baltimore, Md.",
+      "RANK 2025": "226",
+      "RANK 2024": "231"
+    },
+    {
+      "Company Name": "CDI Engineering Solutions LLC",
+      "Location": "Houston, Texas",
+      "RANK 2025": "227",
+      "RANK 2024": "201"
+    },
+    {
+      "Company Name": "Haskell",
+      "Location": "Jacksonville, Fla.",
+      "RANK 2025": "228",
+      "RANK 2024": "190"
+    },
+    {
+      "Company Name": "DeSimone Consulting Engineering",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "229",
+      "RANK 2024": "241"
+    },
+    {
+      "Company Name": "Shannon & Wilson",
+      "Location": "Seattle, Wash.",
+      "RANK 2025": "230",
+      "RANK 2024": "223"
+    },
+    {
+      "Company Name": "Build Group Inc.",
+      "Location": "San Francisco, Calif.",
+      "RANK 2025": "231",
+      "RANK 2024": "123"
+    },
+    {
+      "Company Name": "WATG",
+      "Location": "Tustin, Calif.",
+      "RANK 2025": "232",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "BL Cos. Inc.",
+      "Location": "Meriden, Conn.",
+      "RANK 2025": "233",
+      "RANK 2024": "227"
+    },
+    {
+      "Company Name": "Bartlett & West Inc.",
+      "Location": "Topeka, Kan.",
+      "RANK 2025": "234",
+      "RANK 2024": "258"
+    },
+    {
+      "Company Name": "Jaros Baum & Bolles",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "235",
+      "RANK 2024": "252"
+    },
+    {
+      "Company Name": "AO",
+      "Location": "Orange, Calif.",
+      "RANK 2025": "236",
+      "RANK 2024": "210"
+    },
+    {
+      "Company Name": "Burns Engineering Inc.",
+      "Location": "Philadelphia, Pa.",
+      "RANK 2025": "237",
+      "RANK 2024": "254"
+    },
+    {
+      "Company Name": "Larson Design Group",
+      "Location": "Cranberry Township, Pa.",
+      "RANK 2025": "238",
+      "RANK 2024": "246"
+    },
+    {
+      "Company Name": "PRIME AE Group Inc.",
+      "Location": "Baltimore, Md.",
+      "RANK 2025": "239",
+      "RANK 2024": "229"
+    },
+    {
+      "Company Name": "Kennedy/Jenks Consultants Inc.",
+      "Location": "San Francisco, Calif.",
+      "RANK 2025": "240",
+      "RANK 2024": "237"
+    },
+    {
+      "Company Name": "Lockwood Andrews & Newnam Inc.",
+      "Location": "Houston, Texas",
+      "RANK 2025": "241",
+      "RANK 2024": "327"
+    },
+    {
+      "Company Name": "McMillan Pazdan Smith Architecture LLC",
+      "Location": "Greenville, S.C.",
+      "RANK 2025": "242",
+      "RANK 2024": "273"
+    },
+    {
+      "Company Name": "Moseley Architects",
+      "Location": "Richmond, Va.",
+      "RANK 2025": "243",
+      "RANK 2024": "236"
+    },
+    {
+      "Company Name": "Collins Engineers Inc.",
+      "Location": "Chicago, Ill.",
+      "RANK 2025": "244",
+      "RANK 2024": "287"
+    },
+    {
+      "Company Name": "ISG",
+      "Location": "Mankato, Minn.",
+      "RANK 2025": "245",
+      "RANK 2024": "253"
+    },
+    {
+      "Company Name": "Hart Howerton",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "246",
+      "RANK 2024": "234"
+    },
+    {
+      "Company Name": "NOVA Eng’g and Environmental LLC",
+      "Location": "Kennesaw, Ga.",
+      "RANK 2025": "247",
+      "RANK 2024": "230"
+    },
+    {
+      "Company Name": "Remington & Vernick Engineers",
+      "Location": "Cherry Hill, N.J.",
+      "RANK 2025": "248",
+      "RANK 2024": "243"
+    },
+    {
+      "Company Name": "Degenkolb Engineers",
+      "Location": "San Francisco, Calif.",
+      "RANK 2025": "249",
+      "RANK 2024": "272"
+    },
+    {
+      "Company Name": "McAdams",
+      "Location": "Raleigh, N.C.",
+      "RANK 2025": "250",
+      "RANK 2024": "262"
+    },
+    {
+      "Company Name": "McCormick Taylor Inc.",
+      "Location": "Philadelphia, Pa.",
+      "RANK 2025": "251",
+      "RANK 2024": "247"
+    },
+    {
+      "Company Name": "RRC Power & Energy LLC",
+      "Location": "Round Rock, Texas",
+      "RANK 2025": "252",
+      "RANK 2024": "255"
+    },
+    {
+      "Company Name": "RTM Engineering Consultants LLC",
+      "Location": "Schaumburg, Ill.",
+      "RANK 2025": "253",
+      "RANK 2024": "313"
+    },
+    {
+      "Company Name": "AKRF Inc.",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "254",
+      "RANK 2024": "226"
+    },
+    {
+      "Company Name": "Clark Nexsen",
+      "Location": "Virginia Beach, Va.",
+      "RANK 2025": "255",
+      "RANK 2024": "271"
+    },
+    {
+      "Company Name": "KTGY",
+      "Location": "Irvine, Calif.",
+      "RANK 2025": "256",
+      "RANK 2024": "211"
+    },
+    {
+      "Company Name": "Fehr & Peers",
+      "Location": "Walnut Creek, Calif.",
+      "RANK 2025": "257",
+      "RANK 2024": "274"
+    },
+    {
+      "Company Name": "A. Morton Thomas and Associates Inc.",
+      "Location": "Rockville, Md.",
+      "RANK 2025": "258",
+      "RANK 2024": "265"
+    },
+    {
+      "Company Name": "TKDA",
+      "Location": "St. Paul, Minn.",
+      "RANK 2025": "259",
+      "RANK 2024": "279"
+    },
+    {
+      "Company Name": "SRF Consulting Group Inc.",
+      "Location": "Minneapolis, Minn.",
+      "RANK 2025": "260",
+      "RANK 2024": "288"
+    },
+    {
+      "Company Name": "CPL Architecture Engineering and Planning",
+      "Location": "Fairport, N.Y.",
+      "RANK 2025": "261",
+      "RANK 2024": "278"
+    },
+    {
+      "Company Name": "Cushing Terrell",
+      "Location": "Billings, Mont.",
+      "RANK 2025": "262",
+      "RANK 2024": "269"
+    },
+    {
+      "Company Name": "BSA",
+      "Location": "Carmel, Ind.",
+      "RANK 2025": "263",
+      "RANK 2024": "332"
+    },
+    {
+      "Company Name": "Fuss & O’Neill Inc.",
+      "Location": "Hartford, Conn.",
+      "RANK 2025": "264",
+      "RANK 2024": "296"
+    },
+    {
+      "Company Name": "Wood Rodgers Inc.",
+      "Location": "Sacramento, Calif.",
+      "RANK 2025": "265",
+      "RANK 2024": "289"
+    },
+    {
+      "Company Name": "The Mannik & Smith Group Inc.",
+      "Location": "Maumee, Ohio",
+      "RANK 2025": "266",
+      "RANK 2024": "292"
+    },
+    {
+      "Company Name": "RATIO Design",
+      "Location": "Indianapolis, Ind.",
+      "RANK 2025": "267",
+      "RANK 2024": "304"
+    },
+    {
+      "Company Name": "Walker Consultants Inc.",
+      "Location": "Hoffman Estates, Ill.",
+      "RANK 2025": "268",
+      "RANK 2024": "277"
+    },
+    {
+      "Company Name": "The S/L/A/M Collaborative Inc.",
+      "Location": "Glastonbury, Conn.",
+      "RANK 2025": "269",
+      "RANK 2024": "259"
+    },
+    {
+      "Company Name": "MG2",
+      "Location": "Seattle, Wash.",
+      "RANK 2025": "270",
+      "RANK 2024": "240"
+    },
+    {
+      "Company Name": "JLL (Jones Lang LaSalle)",
+      "Location": "Chicago, Ill.",
+      "RANK 2025": "271",
+      "RANK 2024": "249"
+    },
+    {
+      "Company Name": "Kisinger Campo & Associates Corp.",
+      "Location": "Tampa, Fla.",
+      "RANK 2025": "272",
+      "RANK 2024": "280"
+    },
+    {
+      "Company Name": "CME Associates LLC",
+      "Location": "Parlin, N.J.",
+      "RANK 2025": "273",
+      "RANK 2024": "331"
+    },
+    {
+      "Company Name": "T&M Associates",
+      "Location": "Middletown, N.J.",
+      "RANK 2025": "274",
+      "RANK 2024": "275"
+    },
+    {
+      "Company Name": "RMF Engineering Inc.",
+      "Location": "Baltimore, Md.",
+      "RANK 2025": "275",
+      "RANK 2024": "297"
+    },
+    {
+      "Company Name": "TTL Inc.",
+      "Location": "Tuscaloosa, Ala.",
+      "RANK 2025": "276",
+      "RANK 2024": "264"
+    },
+    {
+      "Company Name": "Baxter & Woodman Inc.",
+      "Location": "Crystal Lake, Ill.",
+      "RANK 2025": "277",
+      "RANK 2024": "282"
+    },
+    {
+      "Company Name": "Geo-Logic Associates Inc.",
+      "Location": "Ontario, Calif.",
+      "RANK 2025": "278",
+      "RANK 2024": "245"
+    },
+    {
+      "Company Name": "Barton & Loguidice DPC",
+      "Location": "Liverpool, N.Y.",
+      "RANK 2025": "279",
+      "RANK 2024": "286"
+    },
+    {
+      "Company Name": "Cooper Carry",
+      "Location": "Atlanta, Ga.",
+      "RANK 2025": "280",
+      "RANK 2024": "263"
+    },
+    {
+      "Company Name": "PAE Consulting Engineers",
+      "Location": "Portland, Ore.",
+      "RANK 2025": "281",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "ms consultants inc.",
+      "Location": "Columbus, Ohio",
+      "RANK 2025": "282",
+      "RANK 2024": "285"
+    },
+    {
+      "Company Name": "Ballinger",
+      "Location": "Philadelphia, Pa.",
+      "RANK 2025": "283",
+      "RANK 2024": "219"
+    },
+    {
+      "Company Name": "SME",
+      "Location": "Plymouth, Mich.",
+      "RANK 2025": "284",
+      "RANK 2024": "291"
+    },
+    {
+      "Company Name": "RAMSA (Robert A.M. Stern Architects)",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "285",
+      "RANK 2024": "256"
+    },
+    {
+      "Company Name": "10 Design",
+      "Location": "San Francisco, Calif.",
+      "RANK 2025": "286",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "DGA",
+      "Location": "Mountain View, Calif.",
+      "RANK 2025": "287",
+      "RANK 2024": "267"
+    },
+    {
+      "Company Name": "MSA Professional Services Inc.",
+      "Location": "Baraboo, Wis.",
+      "RANK 2025": "288",
+      "RANK 2024": "310"
+    },
+    {
+      "Company Name": "Little Diversified Architectural Consulting",
+      "Location": "Charlotte, N.C.",
+      "RANK 2025": "289",
+      "RANK 2024": "281"
+    },
+    {
+      "Company Name": "Fentress Architects",
+      "Location": "Denver, Colo.",
+      "RANK 2025": "290",
+      "RANK 2024": "440"
+    },
+    {
+      "Company Name": "WithersRavenel Inc.",
+      "Location": "Cary, N.C.",
+      "RANK 2025": "291",
+      "RANK 2024": "306"
+    },
+    {
+      "Company Name": "ARM Group Enterprises Inc.",
+      "Location": "Hummelstown, Pa.",
+      "RANK 2025": "292",
+      "RANK 2024": "322"
+    },
+    {
+      "Company Name": "SYSTRA USA",
+      "Location": "Bloomfield, N.J.",
+      "RANK 2025": "293",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "CPH Consulting",
+      "Location": "Sanford, Fla.",
+      "RANK 2025": "294",
+      "RANK 2024": "293"
+    },
+    {
+      "Company Name": "ETM",
+      "Location": "Jacksonville, Fla.",
+      "RANK 2025": "295",
+      "RANK 2024": "333"
+    },
+    {
+      "Company Name": "Moody Nolan Inc.",
+      "Location": "Columbus, Ohio",
+      "RANK 2025": "296",
+      "RANK 2024": "248"
+    },
+    {
+      "Company Name": "Kirksey Architects Inc.",
+      "Location": "Houston, Texas",
+      "RANK 2025": "297",
+      "RANK 2024": "261"
+    },
+    {
+      "Company Name": "EMH&T",
+      "Location": "New Albany, Ohio",
+      "RANK 2025": "298",
+      "RANK 2024": "294"
+    },
+    {
+      "Company Name": "AI Engineers Inc.",
+      "Location": "Middletown, Conn.",
+      "RANK 2025": "299",
+      "RANK 2024": "300"
+    },
+    {
+      "Company Name": "LJB Engineering",
+      "Location": "Miamisburg, Ohio",
+      "RANK 2025": "300",
+      "RANK 2024": "350"
+    },
+    {
+      "Company Name": "TNP Inc.",
+      "Location": "Fort Worth, Texas",
+      "RANK 2025": "301",
+      "RANK 2024": "356"
+    },
+    {
+      "Company Name": "Sunrise Engineering",
+      "Location": "Fillmore, Utah",
+      "RANK 2025": "302",
+      "RANK 2024": "328"
+    },
+    {
+      "Company Name": "JEO Consulting Group Inc.",
+      "Location": "Wahoo, Neb.",
+      "RANK 2025": "303",
+      "RANK 2024": "342"
+    },
+    {
+      "Company Name": "GBA",
+      "Location": "Lenexa, Kan.",
+      "RANK 2025": "304",
+      "RANK 2024": "301"
+    },
+    {
+      "Company Name": "V3 Cos. Ltd.",
+      "Location": "Woodridge, Ill.",
+      "RANK 2025": "305",
+      "RANK 2024": "316"
+    },
+    {
+      "Company Name": "WD Partners",
+      "Location": "Dublin, Ohio",
+      "RANK 2025": "306",
+      "RANK 2024": "329"
+    },
+    {
+      "Company Name": "Champlin Arch. | EOP Architects",
+      "Location": "Cincinnati, Ohio",
+      "RANK 2025": "307",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "JLG Architects",
+      "Location": "Minneapolis, Minn.",
+      "RANK 2025": "308",
+      "RANK 2024": "344"
+    },
+    {
+      "Company Name": "Boulder Associates PC",
+      "Location": "Boulder, Colo.",
+      "RANK 2025": "309",
+      "RANK 2024": "335"
+    },
+    {
+      "Company Name": "Cuningham",
+      "Location": "Minneapolis, Minn.",
+      "RANK 2025": "310",
+      "RANK 2024": "266"
+    },
+    {
+      "Company Name": "Plummer Associates Inc.",
+      "Location": "Fort Worth, Texas",
+      "RANK 2025": "311",
+      "RANK 2024": "338"
+    },
+    {
+      "Company Name": "BHDP Architecture",
+      "Location": "Cincinnati, Ohio",
+      "RANK 2025": "312",
+      "RANK 2024": "346"
+    },
+    {
+      "Company Name": "Professional Engineering Consultants PA",
+      "Location": "Wichita, Kan.",
+      "RANK 2025": "313",
+      "RANK 2024": "309"
+    },
+    {
+      "Company Name": "Morrison-Maierle",
+      "Location": "Helena, Mont.",
+      "RANK 2025": "314",
+      "RANK 2024": "311"
+    },
+    {
+      "Company Name": "Ennead Architects LLP",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "315",
+      "RANK 2024": "334"
+    },
+    {
+      "Company Name": "Wright-Pierce",
+      "Location": "Topsham, Maine",
+      "RANK 2025": "316",
+      "RANK 2024": "325"
+    },
+    {
+      "Company Name": "Ayres",
+      "Location": "Eau Claire, Wis.",
+      "RANK 2025": "317",
+      "RANK 2024": "317"
+    },
+    {
+      "Company Name": "Galloway & Co. Inc.",
+      "Location": "Greenwood Village, Colo.",
+      "RANK 2025": "318",
+      "RANK 2024": "326"
+    },
+    {
+      "Company Name": "Matrix Technologies Inc.",
+      "Location": "Maumee, Ohio",
+      "RANK 2025": "319",
+      "RANK 2024": "251"
+    },
+    {
+      "Company Name": "CO Architects",
+      "Location": "Los Angeles, Calif.",
+      "RANK 2025": "320",
+      "RANK 2024": "299"
+    },
+    {
+      "Company Name": "Modjeski and Masters Inc.",
+      "Location": "Mechanicsburg, Pa.",
+      "RANK 2025": "321",
+      "RANK 2024": "341"
+    },
+    {
+      "Company Name": "Beyer Blinder Belle Architects and Planners LLP",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "322",
+      "RANK 2024": "315"
+    },
+    {
+      "Company Name": "Summit Design and Engineering Services Inc.",
+      "Location": "Hillsborough, N.C.",
+      "RANK 2025": "323",
+      "RANK 2024": "303"
+    },
+    {
+      "Company Name": "P2S LP",
+      "Location": "Long Beach, Calif.",
+      "RANK 2025": "324",
+      "RANK 2024": "308"
+    },
+    {
+      "Company Name": "Martin/Martin Inc.",
+      "Location": "Lakewood, Colo.",
+      "RANK 2025": "325",
+      "RANK 2024": "307"
+    },
+    {
+      "Company Name": "Weston Solutions Inc.",
+      "Location": "West Chester, Pa.",
+      "RANK 2025": "326",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "M&S Engineering",
+      "Location": "Spring Branch, Texas",
+      "RANK 2025": "327",
+      "RANK 2024": "337"
+    },
+    {
+      "Company Name": "EUA",
+      "Location": "Milwaukee, Wis.",
+      "RANK 2025": "328",
+      "RANK 2024": "283"
+    },
+    {
+      "Company Name": "Manhard Consulting Ltd.",
+      "Location": "Lincolnshire, Ill.",
+      "RANK 2025": "329",
+      "RANK 2024": "348"
+    },
+    {
+      "Company Name": "American Engineering Testing Inc.",
+      "Location": "St. Paul, Minn.",
+      "RANK 2025": "330",
+      "RANK 2024": "323"
+    },
+    {
+      "Company Name": "FGM Architects Inc.",
+      "Location": "Westchester, Ill.",
+      "RANK 2025": "331",
+      "RANK 2024": "349"
+    },
+    {
+      "Company Name": "STUDIOS architecture",
+      "Location": "Washington, D.C.",
+      "RANK 2025": "332",
+      "RANK 2024": "302"
+    },
+    {
+      "Company Name": "JCJ Architecture",
+      "Location": "Hartford, Conn.",
+      "RANK 2025": "333",
+      "RANK 2024": "371"
+    },
+    {
+      "Company Name": "AFRY (AFRY USA LLC)",
+      "Location": "Appleton, Wis.",
+      "RANK 2025": "334",
+      "RANK 2024": "319"
+    },
+    {
+      "Company Name": "DCI Engineers",
+      "Location": "Seattle, Wash.",
+      "RANK 2025": "335",
+      "RANK 2024": "295"
+    },
+    {
+      "Company Name": "Kapur & Associates Inc.",
+      "Location": "Milwaukee, Wis.",
+      "RANK 2025": "336",
+      "RANK 2024": "312"
+    },
+    {
+      "Company Name": "Ayers Saint Gross",
+      "Location": "Baltimore, Md.",
+      "RANK 2025": "337",
+      "RANK 2024": "343"
+    },
+    {
+      "Company Name": "CTL Engineering Inc.",
+      "Location": "New Albany, Ohio",
+      "RANK 2025": "338",
+      "RANK 2024": "394"
+    },
+    {
+      "Company Name": "Genesis AEC",
+      "Location": "Blue Bell, Pa.",
+      "RANK 2025": "339",
+      "RANK 2024": "284"
+    },
+    {
+      "Company Name": "Herbert Rowland & Grubic Inc.",
+      "Location": "Harrisburg, Pa.",
+      "RANK 2025": "340",
+      "RANK 2024": "336"
+    },
+    {
+      "Company Name": "BWBR",
+      "Location": "St. Paul, Minn.",
+      "RANK 2025": "341",
+      "RANK 2024": "290"
+    },
+    {
+      "Company Name": "GreenbergFarrow",
+      "Location": "Atlanta, Ga.",
+      "RANK 2025": "342",
+      "RANK 2024": "321"
+    },
+    {
+      "Company Name": "Osborn Engineering",
+      "Location": "Cleveland, Ohio",
+      "RANK 2025": "343",
+      "RANK 2024": "351"
+    },
+    {
+      "Company Name": "Mithun",
+      "Location": "Seattle, Wash.",
+      "RANK 2025": "344",
+      "RANK 2024": "385"
+    },
+    {
+      "Company Name": "Tolunay-Wong Engineers Inc.",
+      "Location": "Houston, Texas",
+      "RANK 2025": "345",
+      "RANK 2024": "354"
+    },
+    {
+      "Company Name": "Interface Engineering Inc.",
+      "Location": "Portland, Ore.",
+      "RANK 2025": "346",
+      "RANK 2024": "314"
+    },
+    {
+      "Company Name": "Bohannan Huston Inc.",
+      "Location": "Albuquerque, N.M.",
+      "RANK 2025": "347",
+      "RANK 2024": "374"
+    },
+    {
+      "Company Name": "Waggoner Engineering Inc.",
+      "Location": "Jackson, Miss.",
+      "RANK 2025": "348",
+      "RANK 2024": "391"
+    },
+    {
+      "Company Name": "AlfaTech Consulting Engineers Inc.",
+      "Location": "San Jose, Calif.",
+      "RANK 2025": "349",
+      "RANK 2024": "353"
+    },
+    {
+      "Company Name": "HVJ Associates Inc.",
+      "Location": "Houston, Texas",
+      "RANK 2025": "350",
+      "RANK 2024": "401"
+    },
+    {
+      "Company Name": "Wallace Design Collective",
+      "Location": "Tulsa, Okla.",
+      "RANK 2025": "351",
+      "RANK 2024": "376"
+    },
+    {
+      "Company Name": "Gray",
+      "Location": "Lexington, Ky.",
+      "RANK 2025": "352",
+      "RANK 2024": "238"
+    },
+    {
+      "Company Name": "PS&S",
+      "Location": "Warren, N.J.",
+      "RANK 2025": "353",
+      "RANK 2024": "368"
+    },
+    {
+      "Company Name": "BRPH Cos. Inc.",
+      "Location": "Melbourne, Fla.",
+      "RANK 2025": "354",
+      "RANK 2024": "345"
+    },
+    {
+      "Company Name": "Lochmueller Group Inc.",
+      "Location": "Evansville, Ind.",
+      "RANK 2025": "355",
+      "RANK 2024": "361"
+    },
+    {
+      "Company Name": "M3 Engineering and Technology Corp.",
+      "Location": "Tucson, Ariz.",
+      "RANK 2025": "356",
+      "RANK 2024": "378"
+    },
+    {
+      "Company Name": "Waldemar S. Nelson and Co. Inc.",
+      "Location": "New Orleans, La.",
+      "RANK 2025": "357",
+      "RANK 2024": "355"
+    },
+    {
+      "Company Name": "Hillis-Carnes Engineering Associates Inc.",
+      "Location": "Annapolis Junction, Md.",
+      "RANK 2025": "358",
+      "RANK 2024": "347"
+    },
+    {
+      "Company Name": "T2 Utility Engineers",
+      "Location": "Indianapolis, Ind.",
+      "RANK 2025": "359",
+      "RANK 2024": "365"
+    },
+    {
+      "Company Name": "Houston Engineering Inc.",
+      "Location": "Fargo, N.D.",
+      "RANK 2025": "360",
+      "RANK 2024": "384"
+    },
+    {
+      "Company Name": "Primera Engineers Ltd.",
+      "Location": "Chicago, Ill.",
+      "RANK 2025": "361",
+      "RANK 2024": "359"
+    },
+    {
+      "Company Name": "TPG Architecture",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "362",
+      "RANK 2024": "340"
+    },
+    {
+      "Company Name": "Frankfurt-Short-Bruza Associates PC",
+      "Location": "Oklahoma City, Okla.",
+      "RANK 2025": "363",
+      "RANK 2024": "397"
+    },
+    {
+      "Company Name": "The Beck Group",
+      "Location": "Dallas, Texas",
+      "RANK 2025": "364",
+      "RANK 2024": "379"
+    },
+    {
+      "Company Name": "NAC",
+      "Location": "Spokane, Wash.",
+      "RANK 2025": "365",
+      "RANK 2024": "360"
+    },
+    {
+      "Company Name": "GRAEF",
+      "Location": "Milwaukee, Wis.",
+      "RANK 2025": "366",
+      "RANK 2024": "370"
+    },
+    {
+      "Company Name": "HLW International LLP",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "367",
+      "RANK 2024": "352"
+    },
+    {
+      "Company Name": "Crafton Tull",
+      "Location": "Rogers, Ark.",
+      "RANK 2025": "368",
+      "RANK 2024": "412"
+    },
+    {
+      "Company Name": "Hubbell Roth & Clark Inc.",
+      "Location": "Bloomfield Hills, Mich.",
+      "RANK 2025": "369",
+      "RANK 2024": "386"
+    },
+    {
+      "Company Name": "Magnusson Klemencic Associates Inc.",
+      "Location": "Seattle, Wash.",
+      "RANK 2025": "370",
+      "RANK 2024": "362"
+    },
+    {
+      "Company Name": "Toole Design Group LLC",
+      "Location": "Silver Spring, Md.",
+      "RANK 2025": "371",
+      "RANK 2024": "380"
+    },
+    {
+      "Company Name": "TPD",
+      "Location": "Pottstown, Pa.",
+      "RANK 2025": "372",
+      "RANK 2024": "395"
+    },
+    {
+      "Company Name": "Day & Zimmermann",
+      "Location": "Philadelphia, Pa.",
+      "RANK 2025": "373",
+      "RANK 2024": "320"
+    },
+    {
+      "Company Name": "Highland Associates",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "374",
+      "RANK 2024": "419"
+    },
+    {
+      "Company Name": "Boswell Inc.",
+      "Location": "South Hackensack, N.J.",
+      "RANK 2025": "375",
+      "RANK 2024": "433"
+    },
+    {
+      "Company Name": "HEAPY",
+      "Location": "Dayton, Ohio",
+      "RANK 2025": "376",
+      "RANK 2024": "404"
+    },
+    {
+      "Company Name": "SPEC Services Inc.",
+      "Location": "Fountain Valley, Calif.",
+      "RANK 2025": "377",
+      "RANK 2024": "369"
+    },
+    {
+      "Company Name": "RETTEW Associates Inc.",
+      "Location": "Lancaster, Pa.",
+      "RANK 2025": "378",
+      "RANK 2024": "375"
+    },
+    {
+      "Company Name": "WRNS Studio",
+      "Location": "San Francisco, Calif.",
+      "RANK 2025": "379",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "TowerPinkster",
+      "Location": "Kalamazoo, Mich.",
+      "RANK 2025": "380",
+      "RANK 2024": "418"
+    },
+    {
+      "Company Name": "Vocon",
+      "Location": "Cleveland, Ohio",
+      "RANK 2025": "381",
+      "RANK 2024": "393"
+    },
+    {
+      "Company Name": "CDR Maguire Inc.",
+      "Location": "Warrendale, Pa.",
+      "RANK 2025": "382",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "RRMM Architects",
+      "Location": "Chesapeake, Va.",
+      "RANK 2025": "383",
+      "RANK 2024": "409"
+    },
+    {
+      "Company Name": "Erdman Anthony",
+      "Location": "Rochester, N.Y.",
+      "RANK 2025": "384",
+      "RANK 2024": "410"
+    },
+    {
+      "Company Name": "Hanbury",
+      "Location": "Norfolk, Va.",
+      "RANK 2025": "385",
+      "RANK 2024": "429"
+    },
+    {
+      "Company Name": "T. Baker Smith LLC",
+      "Location": "Houma, La.",
+      "RANK 2025": "386",
+      "RANK 2024": "406"
+    },
+    {
+      "Company Name": "Kier + Wright",
+      "Location": "Livermore, Calif.",
+      "RANK 2025": "387",
+      "RANK 2024": "382"
+    },
+    {
+      "Company Name": "Lionakis",
+      "Location": "Sacramento, Calif.",
+      "RANK 2025": "388",
+      "RANK 2024": "387"
+    },
+    {
+      "Company Name": "ThermalTech Engineering Inc.",
+      "Location": "Richland, Mich.",
+      "RANK 2025": "389",
+      "RANK 2024": "381"
+    },
+    {
+      "Company Name": "McClure Engineering Co.",
+      "Location": "Clive, Iowa",
+      "RANK 2025": "390",
+      "RANK 2024": "416"
+    },
+    {
+      "Company Name": "Baker Engineering & Risk Consultants Inc.",
+      "Location": "San Antonio, Texas",
+      "RANK 2025": "391",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "ATCS",
+      "Location": "Herndon, Va.",
+      "RANK 2025": "392",
+      "RANK 2024": "457"
+    },
+    {
+      "Company Name": "Wallace Montgomery & Associates LLP",
+      "Location": "Hunt Valley, Md.",
+      "RANK 2025": "393",
+      "RANK 2024": "455"
+    },
+    {
+      "Company Name": "ROWE Professional Services Co.",
+      "Location": "Flint, Mich.",
+      "RANK 2025": "394",
+      "RANK 2024": "438"
+    },
+    {
+      "Company Name": "Souder Miller & Associates Inc.",
+      "Location": "Albuquerque, N.M.",
+      "RANK 2025": "395",
+      "RANK 2024": "405"
+    },
+    {
+      "Company Name": "CDG Inc.",
+      "Location": "Andalusia, Ala.",
+      "RANK 2025": "396",
+      "RANK 2024": "464"
+    },
+    {
+      "Company Name": "BSI Engineering",
+      "Location": "Cincinnati, Ohio",
+      "RANK 2025": "397",
+      "RANK 2024": "358"
+    },
+    {
+      "Company Name": "Sigma Technologies Ltd.",
+      "Location": "Perrysburg, Ohio",
+      "RANK 2025": "398",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "EVS Inc.",
+      "Location": "Eden Prairie, Minn.",
+      "RANK 2025": "399",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Mazzetti",
+      "Location": "San Francisco, Calif.",
+      "RANK 2025": "400",
+      "RANK 2024": "389"
+    },
+    {
+      "Company Name": "Array Architects Inc.",
+      "Location": "Conshohocken, Pa.",
+      "RANK 2025": "401",
+      "RANK 2024": "498"
+    },
+    {
+      "Company Name": "EDR",
+      "Location": "Syracuse, N.Y.",
+      "RANK 2025": "402",
+      "RANK 2024": "439"
+    },
+    {
+      "Company Name": "Schmidt Associates",
+      "Location": "Indianapolis, Ind.",
+      "RANK 2025": "403",
+      "RANK 2024": "466"
+    },
+    {
+      "Company Name": "Gateway Engineers",
+      "Location": "Pittsburgh, Pa.",
+      "RANK 2025": "404",
+      "RANK 2024": "432"
+    },
+    {
+      "Company Name": "Hunt Guillot & Associates LLC",
+      "Location": "Ruston, La.",
+      "RANK 2025": "405",
+      "RANK 2024": "364"
+    },
+    {
+      "Company Name": "VCBO Architecture",
+      "Location": "Salt Lake City, Utah",
+      "RANK 2025": "406",
+      "RANK 2024": "390"
+    },
+    {
+      "Company Name": "Network Connex",
+      "Location": "Downers Grove, Ill.",
+      "RANK 2025": "407",
+      "RANK 2024": "396"
+    },
+    {
+      "Company Name": "Wilson Engineers",
+      "Location": "Tempe, Ariz.",
+      "RANK 2025": "408",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Milhouse Engineering and Construction Inc.",
+      "Location": "Chicago, Ill.",
+      "RANK 2025": "409",
+      "RANK 2024": "417"
+    },
+    {
+      "Company Name": "Treanor",
+      "Location": "Lawrence, Kan.",
+      "RANK 2025": "410",
+      "RANK 2024": "445"
+    },
+    {
+      "Company Name": "FFKR Architects",
+      "Location": "Salt Lake City, Utah",
+      "RANK 2025": "411",
+      "RANK 2024": "403"
+    },
+    {
+      "Company Name": "Lord Aeck Sargent Planning & Design Inc.",
+      "Location": "Atlanta, Ga.",
+      "RANK 2025": "412",
+      "RANK 2024": "430"
+    },
+    {
+      "Company Name": "Bala Consulting Engineers Inc.",
+      "Location": "Wayne, Pa.",
+      "RANK 2025": "413",
+      "RANK 2024": "481"
+    },
+    {
+      "Company Name": "Krazan & Associates",
+      "Location": "Clovis, Calif.",
+      "RANK 2025": "414",
+      "RANK 2024": "428"
+    },
+    {
+      "Company Name": "RJN Group Inc.",
+      "Location": "Downers Grove, Ill.",
+      "RANK 2025": "415",
+      "RANK 2024": "422"
+    },
+    {
+      "Company Name": "Stellar",
+      "Location": "Jacksonville, Fla.",
+      "RANK 2025": "416",
+      "RANK 2024": "407"
+    },
+    {
+      "Company Name": "TAIT & Associates Inc.",
+      "Location": "Santa Ana, Calif.",
+      "RANK 2025": "417",
+      "RANK 2024": "414"
+    },
+    {
+      "Company Name": "RDC-S111 Inc.",
+      "Location": "Long Beach, Calif.",
+      "RANK 2025": "418",
+      "RANK 2024": "437"
+    },
+    {
+      "Company Name": "French & Parrello Associates (FPA)",
+      "Location": "Wall Township, N.J.",
+      "RANK 2025": "419",
+      "RANK 2024": "462"
+    },
+    {
+      "Company Name": "DAHLIN Architecture | Planning | Interiors",
+      "Location": "Pleasanton, Calif.",
+      "RANK 2025": "420",
+      "RANK 2024": "388"
+    },
+    {
+      "Company Name": "Commonwealth Associates Inc.",
+      "Location": "Jackson, Mich.",
+      "RANK 2025": "421",
+      "RANK 2024": "441"
+    },
+    {
+      "Company Name": "The Yates Cos. Inc.",
+      "Location": "Philadelphia, Miss.",
+      "RANK 2025": "422",
+      "RANK 2024": "305"
+    },
+    {
+      "Company Name": "Lawrence Group",
+      "Location": "St. Louis, Mo.",
+      "RANK 2025": "423",
+      "RANK 2024": "469"
+    },
+    {
+      "Company Name": "Metric Engineering Inc.",
+      "Location": "Miami, Fla.",
+      "RANK 2025": "424",
+      "RANK 2024": "421"
+    },
+    {
+      "Company Name": "K&A Engineering Consulting P.C.",
+      "Location": "White Plains, N.Y.",
+      "RANK 2025": "425",
+      "RANK 2024": "413"
+    },
+    {
+      "Company Name": "AZTEC Engineering Group Inc.",
+      "Location": "Phoenix, Ariz.",
+      "RANK 2025": "426",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "AC Martin",
+      "Location": "Los Angeles, Calif.",
+      "RANK 2025": "427",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Marmon Mok Architecture",
+      "Location": "San Antonio, Texas",
+      "RANK 2025": "428",
+      "RANK 2024": "434"
+    },
+    {
+      "Company Name": "Loring Consulting Engineers Inc.",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "429",
+      "RANK 2024": "424"
+    },
+    {
+      "Company Name": "C&I Engineering",
+      "Location": "Louisville, Ky.",
+      "RANK 2025": "430",
+      "RANK 2024": "456"
+    },
+    {
+      "Company Name": "Baskervill",
+      "Location": "Richmond, Va.",
+      "RANK 2025": "431",
+      "RANK 2024": "427"
+    },
+    {
+      "Company Name": "Wendel",
+      "Location": "Williamsville, N.Y.",
+      "RANK 2025": "432",
+      "RANK 2024": "470"
+    },
+    {
+      "Company Name": "Haley Ward Inc.",
+      "Location": "Bangor, Maine",
+      "RANK 2025": "433",
+      "RANK 2024": "459"
+    },
+    {
+      "Company Name": "Sanborn Head & Associates Inc.",
+      "Location": "Bedford, N.H.",
+      "RANK 2025": "434",
+      "RANK 2024": "431"
+    },
+    {
+      "Company Name": "Fehr Graham - Engineering & Environmental",
+      "Location": "Freeport, Ill.",
+      "RANK 2025": "435",
+      "RANK 2024": "474"
+    },
+    {
+      "Company Name": "Rina Consulting",
+      "Location": "Chicago, Ill.",
+      "RANK 2025": "436",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Clark Dietz Inc.",
+      "Location": "Champaign, Ill.",
+      "RANK 2025": "437",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "TAI Engineering",
+      "Location": "Owings Mills, Md.",
+      "RANK 2025": "438",
+      "RANK 2024": "420"
+    },
+    {
+      "Company Name": "Dokken Engineering",
+      "Location": "Folsom, Calif.",
+      "RANK 2025": "439",
+      "RANK 2024": "490"
+    },
+    {
+      "Company Name": "Nexus Engineering Group",
+      "Location": "Cleveland, Ohio",
+      "RANK 2025": "440",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Gonzalez Cos. LLC",
+      "Location": "St. Louis, Mo.",
+      "RANK 2025": "441",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Davis Partnership Architects",
+      "Location": "Denver, Colo.",
+      "RANK 2025": "442",
+      "RANK 2024": "400"
+    },
+    {
+      "Company Name": "Hussey Gay Bell",
+      "Location": "Savannah, Ga.",
+      "RANK 2025": "443",
+      "RANK 2024": "447"
+    },
+    {
+      "Company Name": "Dekker",
+      "Location": "Albuquerque, N.M.",
+      "RANK 2025": "444",
+      "RANK 2024": "435"
+    },
+    {
+      "Company Name": "EL Robinson Engineering",
+      "Location": "Charleston, W.Va.",
+      "RANK 2025": "445",
+      "RANK 2024": "436"
+    },
+    {
+      "Company Name": "Niles Bolton Associates",
+      "Location": "Atlanta, Ga.",
+      "RANK 2025": "446",
+      "RANK 2024": "408"
+    },
+    {
+      "Company Name": "Rinker Design Associates LLC",
+      "Location": "Manassas, Va.",
+      "RANK 2025": "447",
+      "RANK 2024": "443"
+    },
+    {
+      "Company Name": "Donohue & Associates Inc.",
+      "Location": "Sheboygan, Wis.",
+      "RANK 2025": "448",
+      "RANK 2024": "479"
+    },
+    {
+      "Company Name": "Building & Earth Sciences Inc.",
+      "Location": "Birmingham, Ala.",
+      "RANK 2025": "449",
+      "RANK 2024": "476"
+    },
+    {
+      "Company Name": "CTL|Thompson Inc.",
+      "Location": "Centennial, Colo.",
+      "RANK 2025": "450",
+      "RANK 2024": "461"
+    },
+    {
+      "Company Name": "MBH Architects",
+      "Location": "Alameda, Calif.",
+      "RANK 2025": "451",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Mueser Rutledge Consulting Engineers PLLC",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "452",
+      "RANK 2024": "444"
+    },
+    {
+      "Company Name": "LMN Architects LLP",
+      "Location": "Seattle, Wash.",
+      "RANK 2025": "453",
+      "RANK 2024": "357"
+    },
+    {
+      "Company Name": "Steinberg Hart",
+      "Location": "Los Angeles, Calif.",
+      "RANK 2025": "454",
+      "RANK 2024": "482"
+    },
+    {
+      "Company Name": "SGA Design Group",
+      "Location": "Tulsa, Okla.",
+      "RANK 2025": "455",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Bridgefarmer & Associates Inc.",
+      "Location": "Dallas, Texas",
+      "RANK 2025": "456",
+      "RANK 2024": "377"
+    },
+    {
+      "Company Name": "LHB Inc.",
+      "Location": "Duluth, Minn.",
+      "RANK 2025": "457",
+      "RANK 2024": "452"
+    },
+    {
+      "Company Name": "FCArchitects Inc.",
+      "Location": "Philadelphia, Pa.",
+      "RANK 2025": "458",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Kahler Slater",
+      "Location": "Milwaukee, Wis.",
+      "RANK 2025": "459",
+      "RANK 2024": "450"
+    },
+    {
+      "Company Name": "Jordan & Skala Engineers",
+      "Location": "Norcross, Ga.",
+      "RANK 2025": "460",
+      "RANK 2024": "399"
+    },
+    {
+      "Company Name": "HASTINGS Architecture",
+      "Location": "Nashville, Tenn.",
+      "RANK 2025": "461",
+      "RANK 2024": "392"
+    },
+    {
+      "Company Name": "Urbahn Architects PLLC",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "462",
+      "RANK 2024": "500"
+    },
+    {
+      "Company Name": "BETA Group Inc.",
+      "Location": "Lincoln, R.I.",
+      "RANK 2025": "463",
+      "RANK 2024": "467"
+    },
+    {
+      "Company Name": "Hoefer Welker",
+      "Location": "Kansas City, Mo.",
+      "RANK 2025": "464",
+      "RANK 2024": "449"
+    },
+    {
+      "Company Name": "Revamp",
+      "Location": "Oakland, Calif.",
+      "RANK 2025": "465",
+      "RANK 2024": "497"
+    },
+    {
+      "Company Name": "Michael Graves",
+      "Location": "Princeton, N.J.",
+      "RANK 2025": "466",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "CSO",
+      "Location": "Indianapolis, Ind.",
+      "RANK 2025": "467",
+      "RANK 2024": "493"
+    },
+    {
+      "Company Name": "Cordogan Clark",
+      "Location": "Aurora, Ill.",
+      "RANK 2025": "468",
+      "RANK 2024": "478"
+    },
+    {
+      "Company Name": "Lamp Rynearson Inc.",
+      "Location": "Omaha, Neb.",
+      "RANK 2025": "469",
+      "RANK 2024": "460"
+    },
+    {
+      "Company Name": "The EADS Group Inc.",
+      "Location": "Altoona, Pa.",
+      "RANK 2025": "470",
+      "RANK 2024": "471"
+    },
+    {
+      "Company Name": "CMT Technical Services",
+      "Location": "Salt Lake City, Utah",
+      "RANK 2025": "471",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Patel",
+      "Location": "Greene & Associates LLC, Temple Terrace, Fla.",
+      "RANK 2025": "472",
+      "RANK 2024": "477"
+    },
+    {
+      "Company Name": "Swanson Rink",
+      "Location": "Denver, Colo.",
+      "RANK 2025": "473",
+      "RANK 2024": "485"
+    },
+    {
+      "Company Name": "Jones Edmunds & Associates Inc.",
+      "Location": "Alachua, Fla.",
+      "RANK 2025": "474",
+      "RANK 2024": "463"
+    },
+    {
+      "Company Name": "Alliiance",
+      "Location": "Minneapolis, Minn.",
+      "RANK 2025": "475",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "MG Engineering DPC",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "476",
+      "RANK 2024": "454"
+    },
+    {
+      "Company Name": "CSA Group",
+      "Location": "New York, N.Y.",
+      "RANK 2025": "477",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Crabtree Rohrbaugh & Associates",
+      "Location": "Mechanicsburg, Pa.",
+      "RANK 2025": "478",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Landrum & Brown Inc.",
+      "Location": "Cincinnati, Ohio",
+      "RANK 2025": "479",
+      "RANK 2024": "489"
+    },
+    {
+      "Company Name": "AHL",
+      "Location": "Honolulu, Hawaii",
+      "RANK 2025": "480",
+      "RANK 2024": "491"
+    },
+    {
+      "Company Name": "Veenstra & Kimm Inc.",
+      "Location": "West Des Moines, Iowa",
+      "RANK 2025": "481",
+      "RANK 2024": "453"
+    },
+    {
+      "Company Name": "Miyamoto International",
+      "Location": "West Sacramento, Calif.",
+      "RANK 2025": "482",
+      "RANK 2024": "475"
+    },
+    {
+      "Company Name": "Lanier & Associates Consulting Engineers Inc.",
+      "Location": "New Orleans, La.",
+      "RANK 2025": "483",
+      "RANK 2024": "423"
+    },
+    {
+      "Company Name": "Dunham Associates",
+      "Location": "Minneapolis, Minn.",
+      "RANK 2025": "484",
+      "RANK 2024": "465"
+    },
+    {
+      "Company Name": "Group 70 International Inc. (G70)",
+      "Location": "Honolulu, Hawaii",
+      "RANK 2025": "485",
+      "RANK 2024": "494"
+    },
+    {
+      "Company Name": "GBBN",
+      "Location": "Cincinnati, Ohio",
+      "RANK 2025": "486",
+      "RANK 2024": "458"
+    },
+    {
+      "Company Name": "Taylor Design",
+      "Location": "Tustin, Calif.",
+      "RANK 2025": "487",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "HF Lenz Co.",
+      "Location": "Johnstown, Pa.",
+      "RANK 2025": "488",
+      "RANK 2024": "473"
+    },
+    {
+      "Company Name": "Qk4 Inc.",
+      "Location": "Louisville, Ky.",
+      "RANK 2025": "489",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Rebel Design+Group",
+      "Location": "Marina Del Rey, Calif.",
+      "RANK 2025": "490",
+      "RANK 2024": "483"
+    },
+    {
+      "Company Name": "Powers Brown Architecture",
+      "Location": "Houston, Texas",
+      "RANK 2025": "491",
+      "RANK 2024": "484"
+    },
+    {
+      "Company Name": "SAI Consulting Engineers Inc.",
+      "Location": "Pittsburgh, Pa.",
+      "RANK 2025": "492",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "Ryan A+E Inc.",
+      "Location": "Minneapolis, Minn.",
+      "RANK 2025": "493",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "D&B Engineers and Architects DPC",
+      "Location": "Woodbury, N.Y.",
+      "RANK 2025": "494",
+      "RANK 2024": "487"
+    },
+    {
+      "Company Name": "Quinn Evans",
+      "Location": "Ann Arbor, Mich.",
+      "RANK 2025": "495",
+      "RANK 2024": "367"
+    },
+    {
+      "Company Name": "Vestal Corp.",
+      "Location": "St. Louis, Mo.",
+      "RANK 2025": "496",
+      "RANK 2024": "499"
+    },
+    {
+      "Company Name": "KS Engineers PC",
+      "Location": "Newark, N.J.",
+      "RANK 2025": "497",
+      "RANK 2024": "486"
+    },
+    {
+      "Company Name": "Resource International Inc.",
+      "Location": "Columbus, Ohio",
+      "RANK 2025": "498",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "CMA (Chen Moore and Associates)",
+      "Location": "Fort Lauderdale, Fla.",
+      "RANK 2025": "499",
+      "RANK 2024": "**"
+    },
+    {
+      "Company Name": "LRK Inc.",
+      "Location": "Memphis, Tenn.",
+      "RANK 2025": "500",
+      "RANK 2024": "492"
+    }
+  ]
+}

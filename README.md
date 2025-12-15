@@ -66,7 +66,7 @@ project/
 ├── controllers/
 │   └── crawler.js          # Main crawler logic
 ├── index.js                # Entry point
-├── enr-toplists-data.json  # Output file (created after run)
+├── enr-data/  # Output folder (created after run)
 ├── enr-cookies.json        # Saved cookies (created after first run)
 └── chrome-profile/         # Browser profile directory (created automatically)
 ```
@@ -114,6 +114,6 @@ When the crawler encounters Cloudflare's security check:
 
 ### File Location
 
-The output file `enr-toplists-data.json` is saved in the project root directory.
+The output file `/enr-data` is saved in the project root directory.
 
 

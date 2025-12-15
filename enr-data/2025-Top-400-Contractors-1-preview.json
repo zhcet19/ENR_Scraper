@@ -1,0 +1,33 @@
+{
+  "crawlDate": "2025-12-15T20:47:05.746Z",
+  "listName": "View Rankings",
+  "url": "https://www.enr.com/toplists/2025-Top-400-Contractors-1-preview",
+  "totalRows": 3,
+  "paginatedPages": 1,
+  "headers": [
+    "RANK 2025",
+    "RANK 2024",
+    "Company Name",
+    "Location"
+  ],
+  "data": [
+    {
+      "Company Name": "Turner Construction Co.",
+      "Location": "New York, N.Y.†",
+      "RANK 2025": "1",
+      "RANK 2024": "1"
+    },
+    {
+      "Company Name": "Bechtel",
+      "Location": "Reston, Va.†",
+      "RANK 2025": "2",
+      "RANK 2024": "3"
+    },
+    {
+      "Company Name": "Kiewit Corp.",
+      "Location": "Omaha, Neb.†",
+      "RANK 2025": "3",
+      "RANK 2024": "2"
+    }
+  ]
+}
